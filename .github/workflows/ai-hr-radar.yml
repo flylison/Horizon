@@ -1,0 +1,83 @@
+name: AI-HR News Radar
+
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Run mode'
+        required: false
+        default: 'daily'
+        type: choice
+        options:
+          - daily
+          - weekly
+
+jobs:
+  generate-report:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Prepare config
+        run: cp data/config.github.json data/config.json
+
+      - name: Run Horizon
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          if [ "${{ github.event.inputs.mode }}" == "weekly" ] || [[ "${{ github.event.schedule }}" == *"1 "* ]]; then
+            uv run horizon --hours 168
+          else
+            uv run horizon --hours 24
+          fi
+
+      - name: Set date variables
+        run: |
+          echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+          echo "WEEK=$(date +'%Y-W%V')" >> $GITHUB_ENV
+
+      - name: Copy output to main branch
+        run: |
+          mkdir -p output/daily output/weekly
+          if [ "${{ github.event.inputs.mode }}" == "weekly" ] || [[ "${{ github.event.schedule }}" == *"1 "* ]]; then
+            cp docs/*.md output/weekly/ 2>/dev/null || true
+          else
+            cp docs/*.md output/daily/ 2>/dev/null || true
+          fi
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          keep_files: true
+          commit_message: "Report ${{ env.DATE }}"
+          publish_branch: gh-pages
+          enable_jekyll: true
+
+      - name: Commit to main for Obsidian sync
+        run: |
+          git config user.name "Horizon Bot"
+          git config user.email "horizon@github.com"
+          git add output/
+          git diff --staged --quiet || git commit -m "Report $(date +'%Y-%m-%d')"
+          git push

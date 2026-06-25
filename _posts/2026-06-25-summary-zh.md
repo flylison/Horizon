@@ -5,299 +5,331 @@ date: 2026-06-25
 lang: zh
 ---
 
-> 从 69 条内容中筛选出 22 条重要资讯。
+> 从 67 条内容中筛选出 23 条重要资讯。
 
 ---
 
-1. [OpenAI 与博通联合发布首款定制 AI 芯片'Jalapeno'](#item-1) ⭐️ 9.0/10
+1. [OpenAI 与博通合作推出首款定制 AI 芯片'Jalapeno'](#item-1) ⭐️ 9.0/10
 2. [Anthropic 指控阿里巴巴非法提取 Claude AI 模型能力](#item-2) ⭐️ 8.0/10
-3. [LastPass 再次报告数据泄露事件，引发安全担忧](#item-3) ⭐️ 8.0/10
-4. [医学生滥用研究工具炮制误导性论文](#item-4) ⭐️ 8.0/10
-5. [各国在推进大规模监控技术上展开竞争](#item-5) ⭐️ 8.0/10
+3. [LastPass 再次报告重大数据泄露事件](#item-3) ⭐️ 8.0/10
+4. [医学生滥用研究工具产出误导性论文](#item-4) ⭐️ 8.0/10
+5. [全球大规模监控竞赛加剧](#item-5) ⭐️ 8.0/10
 6. [RoboScience 发布 Visics 通用具身大模型，采用 VLOA 架构](#item-6) ⭐️ 8.0/10
-7. [基于自博弈强化学习的 Generals.io AI 智能体达到人类榜首水平](#item-7) ⭐️ 8.0/10
-8. [《半条命 2》通过 WebAssembly 实现在浏览器中运行](#item-8) ⭐️ 7.0/10
-9. [Cloudflare 推出面向所有人的自托管 OAuth 服务](#item-9) ⭐️ 7.0/10
-10. [僵尸独角兽困扰硅谷风投生态](#item-10) ⭐️ 7.0/10
-11. [约翰·卡马克反思早期在 id Software 的职业失误](#item-11) ⭐️ 7.0/10
-12. [Tom MacWright 批评 LLM 生成的求职材料](#item-12) ⭐️ 7.0/10
-13. [苹果公司称 AI 数据中心扩张导致内存需求激增](#item-13) ⭐️ 7.0/10
-14. [美团 LongCat 团队开源 VitaBench 2.0](#item-14) ⭐️ 7.0/10
-15. [欧盟委员会初步认定 AWS 及 Azure 为《数字市场法》守门人](#item-15) ⭐️ 7.0/10
-16. [Papers with Code 汇总最佳开源 OCR 模型](#item-16) ⭐️ 7.0/10
-17. [MuJoFil：面向视觉强化学习训练的 GPU 原生模拟器](#item-17) ⭐️ 7.0/10
-18. [HDD-RoPE：高维动态旋转位置编码提升 Transformer 收敛性](#item-18) ⭐️ 7.0/10
-19. [美光 26Q3 营收同比暴增 346%，创历史新高](#item-19) ⭐️ 7.0/10
-20. [谷歌 Play Store 下周在美英欧启用外部计费](#item-20) ⭐️ 7.0/10
-21. [亚马逊卖家申诉通道被中介利用](#item-21) ⭐️ 7.0/10
-22. [Kimi 目标与海外三大模型竞争，海外付费用户增长 4 倍](#item-22) ⭐️ 7.0/10
+7. [基于自博弈强化学习和 Vision Transformer 的 Generals.io AI 实现超人类水平并登顶排行榜](#item-7) ⭐️ 8.0/10
+8. [HDD-RoPE：高维动态旋转位置编码](#item-8) ⭐️ 8.0/10
+9. [《半条命 2》通过 WASM/WebGL 技术实现浏览器直接运行](#item-9) ⭐️ 7.0/10
+10. [Cloudflare 向所有用户推出自托管 OAuth 服务](#item-10) ⭐️ 7.0/10
+11. [Dolphin 模拟器发布 2606 版进度报告](#item-11) ⭐️ 7.0/10
+12. [约翰·卡马克反思 id Software 早期职业生涯中的错误](#item-12) ⭐️ 7.0/10
+13. [Tom MacWright 批评 LLM 生成的求职材料](#item-13) ⭐️ 7.0/10
+14. [国产航电黑马云际 8 个月完成三轮融资，剑指中国版霍尼韦尔](#item-14) ⭐️ 7.0/10
+15. [美团 LongCat 团队开源 VitaBench 2.0](#item-15) ⭐️ 7.0/10
+16. [欧盟初步认定 AWS 及 Azure 为《数字市场法》守门人](#item-16) ⭐️ 7.0/10
+17. [Papers with Code 整理最佳开源 OCR 模型合集](#item-17) ⭐️ 7.0/10
+18. [MuJoFil：面向视觉强化学习的 GPU 原生模拟器](#item-18) ⭐️ 7.0/10
+19. [美光 26Q3 营收同比暴增 346%，日均净赚 3.1 亿美元](#item-19) ⭐️ 7.0/10
+20. [谷歌 Play Store 下周在美英欧启用外部计费选项](#item-20) ⭐️ 7.0/10
+21. [亚马逊卖家通过贿赂内部人员解封冻结账户](#item-21) ⭐️ 7.0/10
+22. [Kimi AI 海外付费用户增长 4 倍，目标与全球三大模型竞争](#item-22) ⭐️ 7.0/10
+23. [谷歌前 CEO 批评中国 AI 开源模式](#item-23) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [OpenAI 与博通联合发布首款定制 AI 芯片'Jalapeno'](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) ⭐️ 9.0/10
+## [OpenAI 与博通合作推出首款定制 AI 芯片'Jalapeno'](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) ⭐️ 9.0/10
 
-OpenAI 宣布推出首款定制 AI 推理芯片'Jalapeno'，该芯片由博通合作开发、台积电制造，从设计到生产仅耗时九个月。 这标志着 OpenAI 正式进军 AI 硬件优化领域，可能减少对英伟达等第三方芯片的依赖，并提升其 ChatGPT 和 API 等大语言模型服务的运行效率。 该芯片采用 HBM 内存和大计算核心设计，专为大语言模型推理任务优化，OpenAI 宣称其能效比显著优于当前最先进的芯片。
+OpenAI 推出了首款名为'Jalapeno'的定制 AI 推理芯片，该芯片与博通合作仅用九个月便完成开发。据称相比现有 Nvidia GPU 可降低约 50%的推理成本。 这标志着 OpenAI 正式进入 AI 硬件领域，可能减少对第三方芯片的依赖，并降低 ChatGPT 等服务的运营成本。此举或将重塑与谷歌等已拥有 TPU 的科技巨头的竞争格局。 Jalapeno 芯片计划于 2026 年底前部署，由台积电制造。该芯片专门针对 GPT-5.3 Codex Spark 等大语言模型优化，承诺提供更高的每瓦性能。
 
 hackernews · jamdesk · 6月24日 17:47 · [社区讨论](https://news.ycombinator.com/item?id=48663324)
 
-**背景**: AI 推理芯片是专门用于高效运行已训练 AI 模型的处理器。谷歌(TPU)、AWS(Inferentia)等科技巨头都在开发定制芯片，OpenAI 如今加入这一行列，旨在为其特定 AI 工作负载优化性能并降低成本。
+**背景**: AI 推理芯片是专门设计用于高效运行训练好的 AI 模型的处理器。博通是领先的半导体公司，以为数据中心和网络设计芯片而闻名。像谷歌 TPU 这样的定制 AI 芯片已在特定工作负载上展现出显著的性能和效率优势。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/broadcom-and-openai-unveil-custom-built-jalapeno-inference-processor-openais-first-chip-is-a-massive-reticle-sized-asic-built-in-an-ultra-fast-nine-month-development-cycle">Broadcom and OpenAI unveil custom-built Jalapeño inference processor — OpenAI's first chip is a massive reticle-sized ASIC built in an ultra-fast nine-month development cycle | Tom's Hardware</a></li>
-<li><a href="https://www.cnbctv18.com/technology/openai-unveils-custom-chip-it-designed-with-broadcom-to-boost-its-ai-infrastructure-19931702.htm">OpenAI unveils custom chip it designed with Broadcom to boost its AI infrastructure - CNBC TV18</a></li>
 <li><a href="https://aws.amazon.com/ai/machine-learning/inferentia/">AI Chip - Amazon Inferentia - AWS</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Broadcom">Broadcom - Wikipedia</a></li>
+<li><a href="https://www.techtimes.com/articles/319012/20260624/openais-first-custom-ai-chip-targets-50-cheaper-inference-jalapeno-unveiled.htm">OpenAI's First Custom AI Chip Targets 50% Cheaper Inference ...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区评论对 OpenAI 声称的 AI 加速芯片设计表示怀疑，同时有人提到 Taalas 等公司的竞争方案（如将 LLM 直接烧录进硅片）。许多用户指出 OpenAI 的公告刻意回避了台积电的制造角色。
+**社区讨论**: 社区反应不一，有人称赞其快速开发周期，也有人质疑关于使用 AI 设计芯片的营销宣传。讨论中提到了 Taalas 直接将 LLM 模型烧录到硅片上的方法。许多人指出谷歌凭借第七代 TPU 在这一领域已取得领先优势。
 
-**标签**: `#AI Hardware`, `#OpenAI`, `#Semiconductors`, `#Machine Learning`, `#Chip Design`
+**标签**: `#AI`, `#Hardware`, `#OpenAI`, `#Semiconductors`, `#Machine Learning`
 
 ---
 
 <a id="item-2"></a>
 ## [Anthropic 指控阿里巴巴非法提取 Claude AI 模型能力](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/) ⭐️ 8.0/10
 
-Anthropic 公开指控阿里巴巴通过类似模型蒸馏的技术非法提取其 Claude AI 模型的能力，引发了关于 AI 伦理和知识产权的辩论。 这一事件凸显了中美科技公司在 AI 知识产权保护方面日益紧张的局势，并可能为 AI 模型能力的合法转移或复制树立先例。 指控涉及涉嫌使用'定向蒸馏'技术，即一个模型指导/训练另一个模型，这在 AI 开发中是常见做法，但在未经许可的情况下进行可能会引发问题。
+Anthropic 公开指控阿里巴巴通过模型蒸馏技术非法提取其 Claude AI 模型的能力，引发了关于 AI 伦理和知识产权的争论。 该事件凸显了 AI 知识产权保护方面日益紧张的局势，并引发了关于模型蒸馏实践伦理界限的疑问，尤其是在中美科技公司之间。 Anthropic 的 Claude 模型采用宪法 AI 技术实现伦理对齐，Claude 3 分为 Haiku、Sonnet 和 Opus 三个版本。模型蒸馏技术既包括简单的基于查询的方法，也包含复杂的 RLAIF 技术。
 
 hackernews · htrp · 6月24日 19:48 · [社区讨论](https://news.ycombinator.com/item?id=48664814)
 
-**背景**: Claude 是 Anthropic 开发的一系列大型语言模型，以高性能和强调可信度而闻名。模型能力提取指的是将知识从一个 AI 模型转移到另一个模型的技术，范围可以从简单的 API 查询到复杂的训练方法。
+**背景**: 模型蒸馏是一种将大型'教师'模型的知识转移到较小'学生'模型的技术。Claude 是 Anthropic 的旗舰 AI 模型系列，其中 Opus 是其最先进版本，具有强大的编码和代理能力。宪法 AI 是 Anthropic 专有的使模型符合伦理原则的方法。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Claude_(language_model)">Claude ( AI ) - Wikipedia</a></li>
-<li><a href="https://www.patlytics.ai/blog/understanding-model-capability-extraction-in-ai-powered-ip-portfolio-management-software">Understanding Model Capability Extraction in AI-Powered IP Portfolio Management Software • Patlytics</a></li>
-<li><a href="https://arxiv.org/html/2502.02180v1">The Elicitation Game: Evaluating Capability Elicitation Techniques</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Claude_(language_model)">Claude (AI) - Wikipedia</a></li>
+<li><a href="https://medium.com/stream-zero/understanding-the-essentials-of-model-distillation-in-ai-1e97403bee8a">Understanding the Essentials of Model Distillation in AI | Medium</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区反应不一，一些人批评 Anthropic 的虚伪，因为 AI 模型是在公共数据上训练的，而另一些人则区分不同类型的蒸馏技术。几位评论者将其与历史上的科技知识产权纠纷相提并论。
+**社区讨论**: 社区反应两极分化，一些人批评 Anthropic 在使用公共数据方面的虚伪，而另一些人则捍卫知识产权保护的必要性。多位评论者指出 AI 公司在使用爬取的互联网数据构建模型后又抱怨被复制的讽刺性。
 
-**标签**: `#AI Ethics`, `#Intellectual Property`, `#Geopolitics`, `#Machine Learning`, `#Corporate Competition`
+**标签**: `#AI Ethics`, `#Intellectual Property`, `#Geopolitics`, `#Model Distillation`, `#Corporate Hypocrisy`
 
 ---
 
 <a id="item-3"></a>
-## [LastPass 再次报告数据泄露事件，引发安全担忧](https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/) ⭐️ 8.0/10
+## [LastPass 再次报告重大数据泄露事件](https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/) ⭐️ 8.0/10
 
-LastPass 已通知用户发生另一起数据泄露事件，延续了其令人不安的安全事件模式。据报道，此次泄露涉及业务联系信息和 CRM 数据的访问，但完整影响尚不明确。 此次泄露进一步削弱了人们对广泛使用的密码管理器 LastPass 的信任，并突显了关键个人数据保护工具中持续存在的安全漏洞。重复发生的事件可能会促使用户寻找更可靠的替代方案，从而可能重塑密码管理器市场格局。 据报道，此次泄露暴露了客户姓名、电话号码、电子邮件地址和支持案例数据。网络犯罪组织 Icarus 声称对此负责，并威胁除非获得付款，否则将公布被盗数据。
+LastPass 已通知用户又一起重大数据泄露事件，包括 Gong、Jamf 和 HackerOne 在内的多家公司确认其数据被盗。网络犯罪组织 Icarus 声称对此负责，并威胁除非支付赎金，否则将公开被盗数据。 这次泄露进一步削弱了对广泛使用的密码管理器 LastPass 的信任，并凸显了基于云的安全服务中持续存在的漏洞。该事件影响个人用户和企业客户，可能暴露多个组织的敏感凭证。 此次泄露事件紧随 LastPass 在 2022 年的安全事件之后，尽管该公司声称采用零知识加密，但其安全架构仍受到质疑。受影响公司包括网络安全企业（HackerOne、Snyk）和企业软件提供商（Sprout Social、Tanium）。
 
 hackernews · mooreds · 6月25日 10:28 · [社区讨论](https://news.ycombinator.com/item?id=48671468)
 
-**背景**: LastPass 是一种流行的密码管理服务，可在线上存储加密密码。自 2011 年以来，它已遭受多次安全漏洞，其中 2022 年的一次特别严重的事件泄露了用户保险库数据。密码管理器被认为是重要的安全工具，但反复发生的漏洞破坏了其安全凭证存储的核心价值主张。
+**背景**: LastPass 是一款基于云的密码管理器，采用 AES-256 加密和零知识架构，意味着公司无法访问用户的主密码。密码管理器集中管理凭证，但也成为高价值目标；如果获取主凭证，泄露可能会危及所有存储的密码。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/LastPass">LastPass - Wikipedia</a></li>
-<li><a href="https://www.zdnet.com/article/lastpass-new-data-breach-2026-steps-to-take-now/">LastPass hit by new data breach - 4 steps you should take now</a></li>
-<li><a href="https://cybernews.com/best-password-managers/lastpass-review/">LastPass Review in 2026: Is It Secure? - Cybernews</a></li>
+<li><a href="https://www.lastpass.com/security/how-we-secure-lastpass">How We Secure LastPass – Security Architecture ... - LastPass</a></li>
+<li><a href="https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html">Password Storage - OWASP Cheat Sheet Series</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区评论显示人们对 LastPass 的安全性普遍持怀疑态度，用户建议替代方案并分享个人安全策略。有些人开玩笑说要重新命名该服务，而另一些人则分享实用方法，例如使用密码重置而不是存储所有凭证。
+**社区讨论**: 评论显示用户普遍不信任 LastPass，有人推荐 Enpass（自托管同步）等替代方案，并讨论部分使用密码管理器的方法。许多人批评 LastPass 屡次发生泄露事件，一位用户讽刺地建议他们改名为'First0wned'。
 
-**标签**: `#security`, `#password-managers`, `#data-breach`, `#privacy`, `#cybersecurity`
+**标签**: `#security`, `#data-breach`, `#password-managers`, `#cybersecurity`, `#privacy`
 
 ---
 
 <a id="item-4"></a>
-## [医学生滥用研究工具炮制误导性论文](https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies) ⭐️ 8.0/10
+## [医学生滥用研究工具产出误导性论文](https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies) ⭐️ 8.0/10
 
-由于学术招聘中‘重数量轻质量’的畸形激励，医学生正越来越多地使用 AI 研究工具生成可疑论文。 这种现象破坏科学诚信和公众信任，因为住院医师项目越来越依赖论文数量而非严格同行评审来筛选人才。 问题在美国医师执照考试(USMLE)第一阶段改为通过制评分后加剧，学生被迫通过表面化的研究成果来突出自己。
+据报道，医学生正在使用流行的学术研究工具生成并发表误导性研究，暴露出学术激励机制和同行评审流程中的系统性缺陷。 这种行为损害了医学研究的可信度，并揭示了当前学术激励机制重数量轻质量的问题，可能影响患者护理和公众对科学的信任。 滥用行为涉及 Google Scholar、JSTOR 和 PubMed Central 等工具，这些工具通常用于合法研究，但可能被利用来操纵发表指标。
 
 hackernews · rndsignals · 6月25日 02:30 · [社区讨论](https://news.ycombinator.com/item?id=48668119)
 
-**背景**: 古德哈特定律揭示了当测量指标成为目标时，指标驱动系统就会失效。像 Jenni 和 Semantic Scholar 这类 AI 研究工具能快速生成论文，而学术晋升体系过度奖励论文数量而非可重复性。
+**背景**: 同行评审是学术出版的基石，专家们在发表前对研究进行评估。然而，该系统假设参与者是诚信的，当激励机制优先考虑发表数量而非科学严谨性时，就可能被操纵。医学生面临发表论文以促进职业发展的巨大压力，为滥用创造了条件。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Perverse_incentive">Perverse incentive - Wikipedia</a></li>
-<li><a href="https://jenni.ai/">Jenni | AI Academic Writer & Research Tool for Students & Academics</a></li>
-<li><a href="https://www.semanticscholar.org/">Semantic Scholar | AI-Powered Research Tool</a></li>
+<li><a href="https://www.aiu.edu/blog/best-online-academic-research-tools/">Top 10 Academic Research Tools Online in 2026</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6398293/">The peer review process - PMC</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者指出系统性缺陷：同行评审被挪用为招聘筛选工具、‘论文发表联盟’的兴起，以及呼吁将奖励机制转向同行评审参与度而非论文数量。部分人认为这是长期激励错位的必然结果。
+**社区讨论**: 评论者批评了这一系统性问题，指出当指标成为目标时，古德哈特定律预测了此类结果。其他人强调了临床实践与研究期望之间的冲突，而一些人建议将学术奖励与参与同行评审而非发表数量挂钩。
 
-**标签**: `#academic-research`, `#science-ethics`, `#peer-review`, `#medical-education`, `#incentives`
+**标签**: `#academic-research`, `#medical-ethics`, `#peer-review`, `#misinformation`, `#science-crisis`
 
 ---
 
 <a id="item-5"></a>
-## [各国在推进大规模监控技术上展开竞争](https://mullvad.net/en/why-privacy-matters/state-mass-surveillance) ⭐️ 8.0/10
+## [全球大规模监控竞赛加剧](https://mullvad.net/en/why-privacy-matters/state-mass-surveillance) ⭐️ 8.0/10
 
-各国正加速推进大规模监控技术的实际应用，其中新加坡因遍布的摄像头网络和公民举报文化被视为领先者。相关讨论揭示了这些系统背后的地缘政治动机，包括监控外国影响力和间谍活动的考量。 这一趋势威胁全球隐私规范，助长威权控制，因为集中化的互联网服务正日益与国家监控机器融合。KYC（了解你的客户）要求的常态化也反映了网络匿名性被系统性削弱的不可逆转向。 新加坡模式将 6.2 万个警用摄像头与群众举报相结合，而西方国家则通过要求身份验证的平台推动互联网集中化。这与东德斯塔西（Stasi）开创的体味采样和邮件监控等技术存在历史相似性。
+全球各国正加速竞争部署先进的大规模监控系统，其中新加坡因广泛的摄像头网络和公民举报文化被视为领先者。企业也通过数据共享协议成为政府帮凶，Reddit 等平台近期推出的 KYC（实名认证）要求就是例证。 这标志着全球隐私权的根本性侵蚀，监控能力正通过政府指令和企业政策被常态化。该趋势实现了前所未有的人口控制，同时创建了可能被改用于政治镇压或社会信用体系的基础设施。 Dataminr 和 Babel Street 等监控供应商已证实通过企业合作获取社交媒体数据，合同显示其规模与盈利能力。常被吹捧为隐私解决方案的 VPN 服务，正因政府施压被 ISP 大规模封禁。
 
 hackernews · Cider9986 · 6月25日 13:07 · [社区讨论](https://news.ycombinator.com/item?id=48672764)
 
-**背景**: 大规模监控技术涵盖从人脸识别摄像头到网络流量监测等手段，常以反恐名义实施。现代方案越来越多地利用 AI 和集中化平台，导致安全目标与公民自由之间的冲突。冷战时期东德斯塔西的做法为当代监控国家提供了先例。
+**背景**: 大规模监控指不加区分地收集全体人口数据，而非针对性监视嫌疑人。现代方案越来越多地将 AI 分析（如大语言模型处理海量数据）与智慧城市中的物联网设备结合。9·11 后反恐名义下的监控被常态化，但其应用已扩展至政治监控和行为控制。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://mises.org/mises-wire/how-east-germanys-stasi-perfected-mass-surveillance">How East Germany's Stasi Perfected Mass Surveillance</a></li>
-<li><a href="https://truthout.org/articles/drones-drugs-and-death/">The war on terror’s methods of mass surveillance and remote warfare...</a></li>
-<li><a href="https://freedom-gpt-wiki.vercel.app/wiki/motives-behind-international-interventions">Motives behind international interventions | WikiFreedom</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mass_surveillance">Mass surveillance - Wikipedia</a></li>
+<li><a href="https://www.technologyreview.com/2026/04/21/1135919/ai-surveillance-privacy-llms-bulk-data/">How LLMs could supercharge mass surveillance in the US</a></li>
+<li><a href="https://www.aclu.org/news/privacy-technology/the-federal-trade-commission-must-investigate-meta-and-x-for-complicity-with-government-surveillance">The Federal Trade Commission Must Investigate Meta and X for Complicity with Government Surveillance | American Civil Liberties Union</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论指出新加坡的监控领先地位，并对互联网集中化成为国家控制工具表示担忧。部分用户预测 KYC 验证将扩展至 Hacker News 等平台，另有人指出监控系统主要针对地缘政治对手而非国内犯罪。
+**社区讨论**: 评论呈现两极观点：有人认为新加坡模式是有效治理，另一些人则视其为反乌托邦控制。对 KYC 常态化的担忧占主导，有人预测 HN 等平台将强制实名认证。多名用户指出企业-政府数据共享是监控未被充分报道的推手。
 
-**标签**: `#privacy`, `#surveillance`, `#geopolitics`, `#internet-freedom`, `#government`
+**标签**: `#privacy`, `#surveillance`, `#government`, `#internet-freedom`, `#security`
 
 ---
 
 <a id="item-6"></a>
 ## [RoboScience 发布 Visics 通用具身大模型，采用 VLOA 架构](https://36kr.com/p/3868276479710466?f=rss) ⭐️ 8.0/10
 
-RoboScience 发布了 Visics 通用具身大模型，首次完整披露了自研的 VLOA（视觉-语言-物体-动作）技术架构，并展示了模型在家具拼装、灵巧抓取、动态流水线等多项真实场景的应用。 这一突破解决了机器人领域的关键挑战，如泛化能力差、精细操作难和长程任务误差累积，有望加速具身智能在工业和商业场景中的落地应用。 Visics 采用双引擎架构，包括具身世界模型和通用操作模型，以物体 3D 点云轨迹（Object Trajectory）作为统一中间表征，通过分层解耦设计实现跨本体、跨物体、跨任务的全域泛化。
+RoboScience 发布了 Visics 通用具身大模型，首次完整披露了其自研的 VLOA（视觉-语言-物体-动作）技术架构。该模型在家具拼装、灵巧抓取和动态流水线等真实场景中展示了应用潜力。 这一突破解决了机器人操作中的三大核心瓶颈：泛化能力差、精细操作难和长程任务误差累积。VLOA 架构有望标准化具身智能，使机器人无需重新训练即可适应不同硬件、物体和场景。 Visics 采用物体 3D 点云轨迹作为统一中间表征标准。其双引擎架构将具身世界模型（基于互联网视频训练）与通用操作模型（通过物理仿真训练）分离，实现了硬件无关的控制能力。
 
 rss · 36kr AI · 6月25日 07:42
 
-**背景**: 具身智能指通过机器人身体与物理世界交互的智能系统。传统方法通常难以在不同机器人、物体和任务之间实现泛化。VLOA 架构为具身智能引入了一种新的标准化表征方式，类似于文本 Token 对大语言模型的标准化作用。
+**背景**: 具身智能将 AI 集成到机器人等物理系统中以实现环境交互。传统方法针对特定硬件轨迹训练模型，限制了泛化能力。VLOA 代表了一种新范式，模型理解以物体为中心的交互而非记忆关节运动。近期研究表明视觉-语言-动作模型正成为下一代机器人的基础。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.techtimes.com/articles/318671/20260618/embodied-ai-world-models-attracted-6-billion-llm-parallel-may-not-hold.htm">Embodied AI World Models Attracted $6 Billion, But the LLM Parallel...</a></li>
-<li><a href="https://petercorke.github.io/robotics-toolbox-python/arm_trajectory.html">Trajectories — Robotics Toolbox for Python documentation</a></li>
+<li><a href="https://medium.com/@raktims2210/dual-system-ai-for-embodied-intelligence-how-vision-language-action-models-will-power-the-future-abfe923a779f">Dual-System AI for Embodied Intelligence: How Vision-Language-Action Models Will Power the Future of Generalist Humanoids | by RAKTIM SINGH | Medium</a></li>
+<li><a href="https://en.roboscience.co/">RoboScience-Defining Embodied Intelligence, scaling Universal AI</a></li>
+<li><a href="https://qubittool.com/blog/embodied-ai-2026-robot-foundation-models">Embodied AI 2026: From Robot Foundation Models to Industrial ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#embodied AI`, `#robotics`, `#computer vision`, `#machine learning`, `#VLOA`
+**标签**: `#embodied AI`, `#robotics`, `#machine learning`, `#computer vision`, `#VLOA`
 
 ---
 
 <a id="item-7"></a>
-## [基于自博弈强化学习的 Generals.io AI 智能体达到人类榜首水平](https://www.reddit.com/r/MachineLearning/comments/1uei2yg/i_made_a_superhuman_generalsio_agent_with/) ⭐️ 8.0/10
+## [基于自博弈强化学习和 Vision Transformer 的 Generals.io AI 实现超人类水平并登顶排行榜](https://www.reddit.com/r/MachineLearning/comments/1uei2yg/i_made_a_superhuman_generalsio_agent_with/) ⭐️ 8.0/10
 
-研究人员开发了一个基于自博弈强化学习的 Generals.io 智能体，该智能体达到了超人类水平并在 1v1 排行榜上排名第一。该方案结合了 JAX 加速、Vision Transformers 以及开源的训练流程（包含一个快速模拟器）。 这证明了现代强化学习技术能在复杂策略游戏中超越人类专家，同时开源版本为游戏 AI 研究提供了宝贵资源。JAX/ViT 的实现也为传统基于 CNN 的方法展示了可扩展的替代方案。 该智能体通过从 PyTorch/NumPy 切换到 JAX 实现 10 倍加速，并用 Vision Transformers 替代 CNN 以提升空间推理能力，从而克服了先前限制。系统包含奖励塑形和行为克隆技术，并有详细技术指南文档。
+研究人员开发了一个基于自博弈强化学习的 Generals.io 智能体，通过改用 JAX 框架和 Vision Transformer 架构（替代原有 CNN 方案），最终实现超人类水平表现并登顶 1v1 人类排行榜。该项目包含开源实现、详细技术指南以及适用于不完全信息即时战略游戏的 JAX 快速模拟器。 该项目证明了现代 AI 技术能在不完全信息的复杂策略游戏中实现超人类表现，为自博弈强化学习与 Transformer 架构的结合提供了实践样板。开源组件将加速游戏 AI 研究，其通过计算效率提升来扩展 RL 系统的经验具有广泛参考价值。 关键突破来自两项改进：从 NumPy/PyTorch 迁移至 JAX 框架以获得更好的计算扩展性，以及用 Vision Transformer 替代 CNN 以更好地捕捉游戏状态的长期依赖关系。该智能体最初采用行为克隆和奖励塑形，但只有在完成这些架构改进后才实现稳定的超人类表现。
 
 reddit · r/MachineLearning · /u/shrekofspeed · 6月24日 16:18
 
-**背景**: Generals.io 是一款快节奏的多人在线策略游戏，玩家需在不完全信息下争夺领土控制权。自博弈强化学习是一种 AI 智能体通过自我对抗提升的技术，著名案例包括 AlphaGo。Vision Transformers（ViTs）将 Transformer 架构应用于视觉数据，在某些任务中比 CNN 更具优势。
+**背景**: Generals.io 是一款多人在线策略游戏，玩家在包含四种格子类型（平原、山脉、将军、城堡）的网格地图上指挥军队。自博弈强化学习是指 AI 智能体通过与自己或历史版本对抗来提升能力的技术。Vision Transformer 将 Transformer 架构应用于视觉输入，在捕捉全局关系方面比 CNN 更具优势。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://generals.io/">generals . io</a></li>
+<li><a href="https://arxiv.org/html/2507.06825v1">Artificial Generals Intelligence: Mastering Generals.io with Reinforcement Learning</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Self-play_(reinforcement_learning_technique)">Self-play (reinforcement learning technique)</a></li>
 <li><a href="https://arxiv.org/abs/2204.04905">[2204.04905] Evaluating Vision Transformer Methods for Deep Reinforcement Learning from Pixels</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者赞扬了技术深度和开源贡献，讨论集中在 JAX 的优化优势及 ViT 对游戏状态表示的适用性上。部分人质疑该方法能否推广到更高复杂度的其他 RTS 游戏。
+**社区讨论**: Reddit 讨论显示出浓厚的技术探讨氛围，用户们赞赏详细的实现指南，并就 ViT 架构相比 CNN 在此任务中的优势等具体设计选择提问。多位评论者表示希望将类似技术应用于其他策略游戏。
 
-**标签**: `#Reinforcement Learning`, `#Game AI`, `#JAX`, `#Vision Transformers`, `#Self-play`
+**标签**: `#reinforcement-learning`, `#jax`, `#self-play`, `#vision-transformers`, `#game-ai`
 
 ---
 
 <a id="item-8"></a>
-## [《半条命 2》通过 WebAssembly 实现在浏览器中运行](https://hl2.slqnt.dev/) ⭐️ 7.0/10
+## [HDD-RoPE：高维动态旋转位置编码](https://www.reddit.com/r/MachineLearning/comments/1uelcm9/high_dimensional_dynamic_rotary_positional/) ⭐️ 8.0/10
 
-一名开发者成功利用 WebAssembly 将《半条命 2》移植到浏览器中运行，展示了现代网页技术处理复杂 3D 游戏的能力。该项目托管在 hl2.slqnt.dev，虽然缺失部分图形效果（如角色眼睛着色器），但仍可实现可玩性能。 这一突破展示了 WebAssembly 如何将浏览器转变为强大的游戏平台，可能消除本地安装需求并扩展经典游戏的访问渠道。对于失去 32 位支持的 macOS 用户尤其重要，因为基于浏览器的解决方案绕过了平台兼容性问题。 根据 WebAssembly 基准测试，该移植版本能达到原生性能的 80-95%，尽管部分图形功能被简化。类似项目也存在于《雷神之锤 3》和《虚幻竞技场》中，显示出基于浏览器的游戏模拟趋势正在增长。
+研究人员提出了 HDD-RoPE，这是一种高维动态旋转位置编码方法，在 TinyStories 数据集上的早期验证收敛速度优于 xPos。该方法通过多维旋转组和数据依赖的旋转速率来捕捉复杂的位置关系。 这一进展可能提升 Transformer 模型理解序列中复杂位置关系的能力，有望在语言建模和文本生成等任务中带来更好的性能。HDD-RoPE 的动态特性使模型能够学习比传统方法更复杂的位置表示。 HDD-RoPE 使用 4 维分块（标准 RoPE 为 2 维）创建了 6 个旋转轴，并通过层激活使旋转速率数据依赖。虽然显示出良好效果，但该方法目前比 xPos 或标准 RoPE 实现速度更慢。
 
-hackernews · panza · 6月25日 06:00 · [社区讨论](https://news.ycombinator.com/item?id=48669534)
+reddit · r/MachineLearning · /u/mikayahlevi · 6月24日 18:16
 
-**背景**: WebAssembly（WASM）是一种二进制指令格式，可在浏览器中实现接近原生的性能。与用于图形渲染的 WebGL 结合后，无需插件即可高效运行游戏等复杂应用。Unity 和虚幻引擎等主流游戏引擎已采用 WebAssembly 进行浏览器部署。
+**背景**: 旋转位置编码(RoPE)是 Transformer 模型中使用的一种技术，通过旋转查询和键向量来编码位置信息。传统 RoPE 使用 2D 旋转表示线性序列位置，而 xPos 是另一种旨在改进外推能力的位置编码方法。TinyStories 数据集包含 GPT 模型生成的简单故事，使用有限词汇，非常适合测试小型语言模型。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://nem5.com/blog/article.php?slug=browser-games-2025">Web-Based Execution: The Complete 2025 Browser Gaming ... | NEM5</a></li>
-<li><a href="https://medium.com/illumination/why-webassembly-is-turning-browsers-into-powerhouses-0d28a9adc351">Why WebAssembly is Turning Browsers into Powerhouses | Medium</a></li>
-<li><a href="https://opensource.com/article/21/3/webassembly-firefox">6 things to know about using WebAssembly on... | Opensource.com</a></li>
+<li><a href="https://github.com/mikayahlevi/hdd-rope/">GitHub - mikayahlevi/hdd-rope</a></li>
+<li><a href="https://medium.com/@anitha6g/understanding-rotational-position-embeddings-rope-in-transformers-95d879dd7b4b">Understanding Rotational Position Embeddings (RoPE) in ... - Medium</a></li>
+<li><a href="https://arxiv.org/abs/2305.07759">[2305.07759] TinyStories: How Small Can Language Models Be ... GitHub - xingvu/TinyStories: Creating a mini GPT-2 model from ... GitHub - sri9s/tinystories-language-models: Exploring the ... raymond-van/gpt-tinystories | DeepWiki TinyStories_baseline.ipynb - Colab</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者提到了《雷神之锤 3》和《虚幻竞技场》的类似浏览器移植版本，也有人指出缺失着色器等技术限制。macOS 用户称赞该解决方案绕过了 32 位兼容性问题。部分讨论还涉及内容可访问性和抗审查的广泛影响。
+**社区讨论**: 技术讨论集中在 HDD-RoPE 的数学公式及其计算权衡上。一些用户表示希望看到在更大数据集上与其他位置编码方法的比较，而另一些用户则称赞这种捕捉多维位置关系的新方法。
 
-**标签**: `#webassembly`, `#gaming`, `#emulation`, `#browser-tech`, `#hacking`
+**标签**: `#machine-learning`, `#transformers`, `#positional-embeddings`, `#nlp`, `#deep-learning`
 
 ---
 
 <a id="item-9"></a>
-## [Cloudflare 推出面向所有人的自托管 OAuth 服务](https://blog.cloudflare.com/oauth-for-all/) ⭐️ 7.0/10
+## [《半条命 2》通过 WASM/WebGL 技术实现浏览器直接运行](https://hl2.slqnt.dev/) ⭐️ 7.0/10
 
-Cloudflare 推出了自托管 OAuth 功能，允许开发者直接通过其平台创建和管理自己的 OAuth 客户端。该特性简化了认证流程，同时支持高规模使用场景。 这一进展意义重大，因为它提供了比 API 令牌更安全、更易管理的替代方案，特别对 SaaS 集成和大规模部署很有价值。它在解决 OAuth 实施常见痛点的同时，保持了 Cloudflare 的性能标准。 该解决方案支持标准的 OAuth 流程，客户可以直接授予范围限定的访问权限。Cloudflare 报告称 2.x 版本在大规模使用时表现优异，CPU 占用极低。
+独立开发者 slqnt 利用 WASM 和 WebGL 技术实现了《半条命 2》的网页移植版，玩家无需安装即可在现代浏览器中直接运行游戏。该项目仅耗时三个月开发，于 2026 年 6 月 25 日在 hl2.slqnt.dev 网站上线。 这展现了基于浏览器的游戏体验潜力，让 3A 大作无需下载即可运行。对失去 32 位 Steam 支持的 macOS 用户尤其重要，浏览器方案成功绕过了这一平台限制。 当前版本缺失部分视觉效果(如角色眼部着色器)，且需要用户自行上传游戏 ZIP 文件。运行表现取决于浏览器的 WebGL 实现和硬件性能。
 
-hackernews · terryds · 6月25日 02:18 · [社区讨论](https://news.ycombinator.com/item?id=48668033)
+hackernews · panza · 6月25日 06:00 · [社区讨论](https://news.ycombinator.com/item?id=48669534)
 
-**背景**: OAuth 是一种常用于基于令牌认证的访问授权开放标准。与依赖第三方提供商相比，自托管 OAuth 让组织对其认证流程有更多控制权。Cloudflare 的实施旨在将这种控制与其基础设施的可扩展性相结合。
+**背景**: WebAssembly(WASM)通过二进制编译实现接近原生的浏览器性能，WebGL 则通过 JavaScript API 提供硬件加速的 3D 图形渲染。两者结合使得复杂应用(如游戏)能在浏览器中运行。《半条命 2》是 Valve 公司 2004 年的旗舰 FPS 游戏，其物理引擎曾革新游戏行业。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://blog.cloudflare.com/oauth-for-all/?ref=upstract.com">blog.cloudflare.com/ oauth -for-all/?ref=upstract.com</a></li>
-<li><a href="https://cloudflare-docs.cloudflare-docs.workers.dev/changelog/post/2026-06-03-public-oauth-clients/">Introducing self - managed OAuth clients · Changelog</a></li>
+<li><a href="https://www.dexerto.com/gaming/half-life-2-is-now-a-free-web-browser-game-thanks-to-a-high-schooler-3379501/">Half-Life 2 is now a free web browser game thanks to a high ...</a></li>
+<li><a href="https://retrogems.fr/en/half-life-2-playable-browser-free-no-install/">You Can Now Play Half-Life 2 In Your Browser For Free, No ...</a></li>
+<li><a href="https://www.getorchestra.io/guides/webgl-wasm-revolutionizing-browser-based-graphics-and-data-engineering">WebGL & WASM : Revolutionizing Browser -Based Graphics and Data...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区反应不一，有人称赞技术实现（Ory Hydra 作者特别指出），也有人对 Cloudflare 长期改进产品的承诺表示怀疑。一些用户强调了现有的大规模 OAuth 管理解决方案，认为通过适当实施这个问题已经可以解决。
+**社区讨论**: 社区讨论涉及与《雷神之锤 3》《虚幻竞技场》网页版的对比，对自动下载文件的担忧，以及对 macOS 兼容性的赞赏。部分用户指出图形渲染不准确，也有人讨论 WASM 在游戏分发领域的未充分开发潜力。
 
-**标签**: `#oauth`, `#authentication`, `#cloudflare`, `#security`, `#devops`
+**标签**: `#WebAssembly`, `#WebGL`, `#gaming`, `#emulation`, `#browser-tech`
 
 ---
 
 <a id="item-10"></a>
-## [僵尸独角兽困扰硅谷风投生态](https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley) ⭐️ 7.0/10
+## [Cloudflare 向所有用户推出自托管 OAuth 服务](https://blog.cloudflare.com/oauth-for-all/) ⭐️ 7.0/10
 
-斯坦福大学数据库显示，截至 2026 年 5 月，1900 家独角兽企业中有 332 家以等于或低于峰值估值融资，Cameo 等平台成为风投估值模型缺陷的典型案例。 这揭示了初创企业融资的系统性风险——过度依赖增长预期而非当前盈利能力的估值模式可能引发科技行业连锁反应。 软银愿景基金对 Cameo 的 10 亿美元估值与其平稳的财务状况形成鲜明对比，揭示了终值增长率假设（通常 2%-4%）对现金流折现模型的重大影响。
+Cloudflare 为所有开发者推出了自托管 OAuth 功能，使他们能够在不依赖第三方服务的情况下处理身份验证。这一功能提供了比传统 API 令牌更安全且更易管理的替代方案。 这一进展意义重大，因为它简化了开发者的身份验证管理，减少了对外部提供商的依赖并增强了安全性。这与行业向自托管身份和访问管理（IAM）解决方案发展的趋势一致。 自托管 OAuth 功能允许第三方应用程序代表用户访问其 Cloudflare 账户。该功能是通过对 Cloudflare 核心 OAuth 引擎进行零停机迁移实现的。
 
-hackernews · andsoitis · 6月25日 02:16 · [社区讨论](https://news.ycombinator.com/item?id=48668020)
+hackernews · terryds · 6月25日 02:18 · [社区讨论](https://news.ycombinator.com/item?id=48668033)
 
-**背景**: 2013 年风投家 Aileen Lee 创造了'独角兽'一词指代估值超 10 亿美元的初创企业。'僵尸独角兽'指依赖低息资本维持高估值但增长停滞的企业。风投估值通常采用可比公司分析法或基于 5 年收入预测的现金流折现模型。
+**背景**: OAuth 是一种用于访问授权的开放标准，通常用于在不暴露密码的情况下授予网站或应用程序对用户信息的有限访问权限。像 OAuth 这样的 IAM（身份和访问管理）系统通过验证用户身份并授权其访问特定资源，对于保护云资源至关重要。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.businesstimes.com.sg/opinion-features/zombie-unicorns-are-haunting-silicon-valley">Zombie unicorns are haunting Silicon Valley - The Business Times</a></li>
-<li><a href="https://www.news18.com/business/economy/inside-zombie-unicorns-why-silicon-valleys-billion-dollar-start-ups-refuse-to-die-is-india-facing-the-same-problem-shil-ws-el-10171975.html">Inside Zombie Unicorns : Why Silicon Valley’s Billion-Dollar... - News18</a></li>
-<li><a href="https://financialmodelslab.com/blogs/blog/exploring-different-valuation-techniques-venture-capital-deals">Exploring Valuation Techniques for Venture Capital Deals</a></li>
+<li><a href="https://blog.cloudflare.com/oauth-for-all/?ref=upstract.com">blog.cloudflare.com/ oauth -for-all/?ref=upstract.com</a></li>
+<li><a href="https://developers.cloudflare.com/changelog/post/2026-06-03-public-oauth-clients/">Introducing self - managed OAuth clients · Changelog</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者将风投估值比作'赌博赔率'，指出 Cameo 的实际估值与软银炒作形成反差。另有观点认为盈利企业可承受估值下调，但投资者回报率将降低。
+**社区讨论**: 社区反应不一，一些人称赞此举简化了传统上复杂的过程，而另一些人则对 Cloudflare 在维护和改进新功能方面的记录表示怀疑。值得注意的评论包括 Ory Hydra 的作者对技术执行的赞赏，而另一位用户则强调了大规模管理 OAuth 的挑战。
 
-**标签**: `#venture-capital`, `#startups`, `#valuation`, `#silicon-valley`, `#economics`
+**标签**: `#OAuth`, `#Cloudflare`, `#authentication`, `#security`, `#IAM`
 
 ---
 
 <a id="item-11"></a>
-## [约翰·卡马克反思早期在 id Software 的职业失误](https://twitter.com/ID_AA_Carmack/status/2069799283369345247) ⭐️ 7.0/10
+## [Dolphin 模拟器发布 2606 版进度报告](https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/) ⭐️ 7.0/10
 
-id Software 联合创始人约翰·卡马克公开反思了他早期的职业失误，包括在《雷神之锤》开发期间过度压榨团队以及某些技术决策。他的回顾引发了关于游戏开发文化和领导力的讨论。 这很重要，因为卡马克是游戏开发领域的传奇人物，他的见解影响着现代技术领导和游戏工程实践。他的反思为平衡创新与可持续团队管理提供了宝贵经验。 卡马克特别提到了对团队管理强度和《雷神之锤》开发中技术债务的遗憾。讨论中提到了与关卡设计师桑迪·彼得森的矛盾，后者在《雷神之锤》开发期间离开了 id Software。
+Dolphin 模拟器最新进度报告（2606 版）详细介绍了这款流行的 GameCube/Wii 模拟器的持续改进，尽管提供的具体内容中未详述技术增强细节。 此次更新意义重大，因为 Dolphin 是复古游戏模拟的基石，使现代硬件能够以增强效果运行经典任天堂游戏，既保护了游戏历史，又扩大了可玩性。 尽管报告缺乏具体技术细节，但 Dolphin 以其高兼容性、超越原版硬件的图形增强以及支持高清分辨率和网络多人游戏等功能而闻名。
+
+hackernews · exploraz · 6月25日 10:20 · [社区讨论](https://news.ycombinator.com/item?id=48671392)
+
+**背景**: Dolphin 是一款免费开源的任天堂 GameCube、Wii 和 Triforce 街机系统模拟器，最初于 2003 年发布。它开创了商业 GameCube 游戏模拟的先河，后来增加了对 Wii 的支持，因支持高清游戏和跨平台兼容性（Windows/Linux/macOS/Android）而闻名。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Dolphin_(emulator)">Dolphin (emulator) - Wikipedia</a></li>
+<li><a href="https://dolphin-emu.org/">Dolphin Emulator - GameCube/Wii games on PC</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论赞扬了 Dolphin 的完善度和怀旧价值，用户提到其在 Steam Deck 等设备上的流畅表现，并幽默地调侃了其名称。有人指出相比 Dolphin 的功能，任天堂发布的经典游戏数量有限。
+
+**标签**: `#emulation`, `#gaming`, `#open-source`, `#retro-gaming`, `#software-development`
+
+---
+
+<a id="item-12"></a>
+## [约翰·卡马克反思 id Software 早期职业生涯中的错误](https://twitter.com/ID_AA_Carmack/status/2069799283369345247) ⭐️ 7.0/10
+
+id Software 联合创始人约翰·卡马克公开反思了他早期职业生涯中的错误，包括在《雷神之锤》开发期间过度压榨团队和技术决策，他认为这些决策'掏空'了公司。 这一反思具有重要意义，因为它来自游戏开发领域的传奇人物，其技术创新塑造了 FPS 游戏类型，为科技行业的可持续开发实践和公司文化提供了宝贵经验。 卡马克特别提到以创业强度过度压榨团队，并质疑《雷神之锤》的技术野心是否值得 id Software 付出的代价，同时承认该游戏在游戏历史上的标志性地位。
 
 hackernews · shadowtree · 6月24日 15:56 · [社区讨论](https://news.ycombinator.com/item?id=48661825)
 
-**背景**: 约翰·卡马克联合创立了 id Software，并为《毁灭战士》和《雷神之锤》开发了革命性的游戏引擎。1996 年的《雷神之锤》引入了真正的 3D 环境，为现代 FPS 游戏奠定了基础。卡马克后来在 Oculus VR 工作，现在专注于 AGI 开发。
+**背景**: id Software 由约翰·卡马克、约翰·罗梅罗、汤姆·霍尔和艾德里安·卡马克于 1991 年创立，开发了《德军总部 3D》、《毁灭战士》和《雷神之锤》等突破性游戏。卡马克是 id 革命性游戏引擎的首席程序员，这些引擎定义了 3D 游戏。该公司于 2009 年被 ZeniMax Media 收购。
 
-**社区讨论**: 社区讨论显示出不同的反应——一些人认为《雷神之锤》的技术成就值得付出代价，而另一些人则强调了对团队的人性化关怀。多位评论者引用了桑迪·彼得森在采访中的观点，表明事情的全貌更为复杂。
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Id_Software">id Software - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/John_Carmack">John Carmack - Wikipedia</a></li>
+<li><a href="https://www.howtogeek.com/711060/from-keen-to-doom-id-softwares-founders-talk-30-years-of-gaming-history/">From Keen to Doom: id Software's Founders Talk 30 Years of ... Celebrate 35 years of id Software - slayersclub.bethesda.net List of id Software games - Wikipedia A Brief History of Doom Developer Id Software - Game Rant 30 Years Since id Software’s Birth That Powered MS-DOS Gaming ... The Definitive History of Doom: How id Software Forged a ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区讨论反应不一，一些人同意《雷神之锤》的开发损害了 id Software 的文化，而另一些人则认为游戏的影响证明了代价的合理性。几位评论者提到了桑迪·彼得森关于艰难开发过程的观点，许多人赞赏卡马克对领导错误的诚实反思。
 
 **标签**: `#game-development`, `#software-engineering`, `#leadership`, `#retrospective`, `#id-software`
 
 ---
 
-<a id="item-12"></a>
+<a id="item-13"></a>
 ## [Tom MacWright 批评 LLM 生成的求职材料](https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything) ⭐️ 7.0/10
 
-Tom MacWright 指出，越来越多的求职者使用 LLM 生成简历、作品集网站、GitHub 项目甚至提交信息，导致候选人资料变得非个性化和匿名化。 这一趋势使雇主更难评估候选人的真实素质和个性品牌，可能破坏招聘流程，并偏向表面的技术技能而非真实能力。 MacWright 特别指出，这些 LLM 生成的材料经常相互链接（如简历→作品集→GitHub），形成完全自动化但非个性化的申请链。Wegic AI 和 10Web 等工具可以轻松创建此类 AI 生成的作品集网站。
+Tom MacWright 发现近期出现完全由 LLM 生成的求职申请、作品集和 GitHub 项目，导致候选人资料变得非人化和匿名化。他指出这些材料除了展示工具使用外，无法体现申请者的真实特质。 这一趋势可能导致招聘流程同质化，使求职者更难展示个性，雇主更难评估真实能力。这反映了人们对 AI 在职业场景中削弱人类真实性的广泛担忧。 具体案例包括通过 llm-commit 等工具生成的提交信息，以及 portfolio-llm 等交互式作品集网站。研究表明 GPT-3.5 和 LLaMA 等 LLM 能生成符合 8 种编程语言规范的提交信息。
 
 rss · Simon Willison · 6月24日 18:13
 
-**背景**: 像 GPT-4 这样的大型语言模型（LLM）可以生成类似人类的文本，包括简历和作品集内容。GitHub 等平台现在托管完全由 AI 编写的项目，而 10Web 的 AI 构建器等工具可以自动化网站创建。这引发了关于专业自我展示真实性的问题。
+**背景**: LLM 正被广泛用于自动化专业文档生成，包括分析 git 差异生成提交信息的工具和作品集生成器。虽然提高了效率，但可能导致缺乏个人特色的通用输出。llms.txt 标准支持可查询的 LLM 驱动作品集。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://wegic.ai/ai-website-builder">Free AI Website Builder: Create Website in Minutes | Wegic</a></li>
-<li><a href="https://10web.io/ai-website-builder/">AI Website Builder: Create and Launch in Seconds | 10Web</a></li>
+<li><a href="https://github.com/GNtousakis/llm-commit">A plugin for llm that generates commit messages - GitHub</a></li>
+<li><a href="https://vishalbakshi.github.io/blog/posts/2025-06-26-portfolio-llm/">Introducing portfolio-llm: A Professional Portfolio You Can ...</a></li>
+<li><a href="https://arxiv.org/abs/2507.10906">[2507.10906] Evaluating Generated Commit Messages with Large ... GitHub - Pengyu03/LLM-Commit-Message-Generation: This ... Using Large Language Models for Commit Message Generation: A ... How to Generate Git Commit Messages with a Local LLM Auto-generate Commit Messages with LLMs in Your Terminal Use an llm to automagically generate meaningful git commit ...</a></li>
 
 </ul>
 </details>
@@ -306,226 +338,218 @@ rss · Simon Willison · 6月24日 18:13
 
 ---
 
-<a id="item-13"></a>
-## [苹果公司称 AI 数据中心扩张导致内存需求激增](https://36kr.com/newsflashes/3868586020066566?f=rss) ⭐️ 7.0/10
-
-苹果公司表示，由于人工智能数据中心的快速扩张，内存零部件价格出现了前所未有的大幅上涨，给电子产品行业带来了巨大挑战。 这表明随着 AI 应用对资源需求的增加，内存供应链正面临越来越大的压力，可能会影响整个科技行业的价格和供应。 内存市场正经历极端波动，AI 驱动的需求导致价格飙升，而其他领域的需求增长则较为缓慢。
-
-rss · 36kr AI · 6月25日 12:49
-
-**背景**: AI 数据中心需要大量内存（DRAM、HBM）来处理大型数据集和训练模型。AI 热潮引发了内存超级周期，部分内存股在过去一年涨幅达 800%-4600%。内存目前是 AI 基础设施发展中最紧张的瓶颈。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://frugalfortunes.com/best-ai-memory-stocks/">Best AI Memory Stocks for 2026: DRAM, HBM and NAND Plays</a></li>
-<li><a href="https://www.fool.com/investing/2026/06/19/missed-out-ai-memory-rally-3-stocks-rmbs/">Missed Out on the AI Memory Rally? These 3 Stocks... | The Motley Fool</a></li>
-<li><a href="https://kr-asia.com/rampant-ai-demand-throws-the-memory-chip-market-into-turmoil">Rampant AI demand throws the memory chip market into turmoil</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#data-centers`, `#memory`, `#supply-chain`, `#Apple`
-
----
-
 <a id="item-14"></a>
-## [美团 LongCat 团队开源 VitaBench 2.0](https://36kr.com/newsflashes/3868549148349700?f=rss) ⭐️ 7.0/10
+## [国产航电黑马云际 8 个月完成三轮融资，剑指中国版霍尼韦尔](https://36kr.com/p/3868030861645058?f=rss) ⭐️ 7.0/10
 
-美团 LongCat 团队发布了 VitaBench 2.0，这是一个用于评估大语言模型在长期动态用户互动中表现的基准测试工具，此前团队已于去年 10 月发布了 VitaBench 1.0。 该基准测试具有重要意义，因为它提供了一种标准化方法来评估大语言模型在真实生活场景中维持个性化和主动性长期互动的能力，这对于推进 AI 在客服等交互领域的应用至关重要。 VitaBench 2.0 继承了 1.0 版本的一些局限性，包括刻意控制的工具和指令复杂度，可能无法完全捕捉现实中隐含的用户偏好（这些偏好往往具有情境性且在不同会话间存在矛盾）。
+云际航电在 8 个月内连续完成 pre-A 和 pre-A+轮数千万元融资，此前已获天使轮投资，用于研发 YJ-500E、YJ-1000E 和 YJ-3000E 三大系列国产航电系统。 此举将挑战霍尼韦尔等欧美巨头占据 80%市场份额的格局，保障中国航空产业链安全，并为国产民机和电动垂直起降飞行器(eVTOL)的商业化提供关键技术支持。 YJ-500E 航电系统已完成 RX1E-A 等机型上机验证，预计 2024 下半年取证，采用 90%国产元器件，成本为国际竞品的 50-70%，功耗降低约 70%。
 
-rss · 36kr AI · 6月25日 12:11
+rss · 36kr AI · 6月25日 03:25
 
-**背景**: 美团 LongCat 团队以开发开源多模态模型而闻名，例如拥有 5600 亿参数、擅长实时视听交互的 LongCat-Flash-Omni 模型。VitaBench 等基准测试工具帮助评估这些模型在实际长期交互场景中的表现。
+**背景**: 航电系统是飞行器的电子'大脑'，集成导航、飞控和通信等子系统。全球市场长期被霍尼韦尔、柯林斯等欧美巨头垄断。电动垂直起降飞行器(eVTOL)作为新兴领域，对专用航电系统有迫切需求。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/html/2605.27141">VitaBench 2 . 0 : Evaluating Personalized and Proactive Agents in...</a></li>
-<li><a href="https://www.linkedin.com/pulse/memory-makes-leaders-worse-vitabench-20-sarvex-jatasra-nhe3c">Memory makes the leaders worse on VitaBench 2 . 0</a></li>
-<li><a href="https://www.longcatai.org/">LongCat AI - LongCat -Next and Open Multimodal Models | Meituan</a></li>
+<li><a href="https://eu.36kr.com/en/p/3868030861645058">A Dark Horse in Domestic Avionics Secures Three Rounds of...</a></li>
+<li><a href="https://builtin.com/articles/evtol-aircraft">What Are eVTOLs? Are They the Future of Aviation? | Built In Images The key technologies that power eVTOLs: How Do They Work? A Complete Guide to eVTOL | Dewesoft Top Stories Autonomous ElectricVTOL Transport Aircraft | MIT Technology ... 7 eVTOLs That Will Be Hitting the Skies by 2025 - Robb Report The e in eVTOL: What It Will Take to Build the Next ...</a></li>
+<li><a href="https://www.linkedin.com/pulse/aircraft-avionic-systems-real-world-5-uses-youll-actually-wuahe">Aircraft Avionic Systems in the Real World: 5 Uses You'll Actually See...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#Benchmarking`, `#LLMs`, `#User Modeling`, `#Machine Learning`
+**标签**: `#avionics`, `#aerospace`, `#startup`, `#China`, `#funding`
 
 ---
 
 <a id="item-15"></a>
-## [欧盟委员会初步认定 AWS 及 Azure 为《数字市场法》守门人](https://36kr.com/newsflashes/3868491377710338?f=rss) ⭐️ 7.0/10
+## [美团 LongCat 团队开源 VitaBench 2.0](https://36kr.com/newsflashes/3868549148349700?f=rss) ⭐️ 7.0/10
 
-欧盟委员会 6 月 25 日宣布，已初步认定亚马逊云服务（AWS）及微软 Azure 为《数字市场法》（DMA）下的“守门人”，尽管两者均未达到 DMA 规定的量化指定门槛。两家公司已收到正式通知，若最终认定成立，其合规义务范围将进一步扩大。 这一认定将使 AWS 和 Azure 面临欧盟更严格的监管审查，可能限制其商业行为并要求结构性调整以确保云计算市场的公平竞争。作为欧盟前两大云服务商，这可能显著影响云服务定价、互操作性要求和市场格局。 值得注意的是，AWS 和 Azure 虽未达到 DMA 的量化门槛（75 亿欧元年营业额或 4500 万月活用户）仍被认定，表明欧盟正在对其市场重要性进行定性评估。最终决定可能在 2025 年 11 月 18 日启动的市场调查后作出。
+美团 LongCat 团队在去年 10 月发布 VitaBench 1.0 后，现推出 VitaBench 2.0，这是一个用于评估大语言模型在长期、真实、动态用户互动中个性化与主动性能力的升级版评测基准。 该基准填补了评估 AI 智能体在长期互动中推断和利用用户偏好这一关键空白，对于开发电商和客服等现实应用中的个性化、主动式 AI 系统至关重要。 VitaBench 2.0 涵盖 56 个用户、819 个子任务、66 种工具和 2000 多项细粒度偏好，是目前最全面的长期用户建模评测基准之一。
 
-rss · 36kr AI · 6月25日 11:30
+rss · 36kr AI · 6月25日 12:11
 
-**背景**: 《数字市场法》（DMA）是欧盟旨在通过对控制大型用户平台访问的“守门人”施加特殊义务，使数字经济更加公平的法规。守门人必须遵守关于互操作性、数据共享和公平商业实践的规则。AWS 和 Azure 分别以约 33%和 22%的市场份额主导欧盟云市场。
+**背景**: 长期动态用户建模指 AI 系统能够适应随时间演变的用户偏好。传统基准主要评估推理和工具使用能力，而 VitaBench 专门评测现实场景中的持续性和个性化能力。美团 LongCat 团队专注于为复杂 AI 任务开发开源多模态模型。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Digital_Markets_Act">Digital Markets Act - Wikipedia</a></li>
-<li><a href="https://digital-markets-act.ec.europa.eu/gatekeepers-portal_en">DMA designated Gatekeepers</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-06-25/microsoft-amazon-cloud-units-face-tough-eu-rules-for-big-tech">Microsoft, Amazon Cloud Units Face Tough EU Rules for... - Bloomberg</a></li>
+<li><a href="https://arxiv.org/abs/2605.27141">[2605.27141] VitaBench 2.0: Evaluating Personalized and ...</a></li>
+<li><a href="https://vitabench2.github.io/">VitaBench 2.0: Evaluating Personalized and Proactive Agents ...</a></li>
+<li><a href="https://github.com/meituan-longcat/VitaBench-2.0">GitHub - meituan-longcat/VitaBench-2.0</a></li>
 
 </ul>
 </details>
 
-**标签**: `#cloud-computing`, `#regulation`, `#AWS`, `#Microsoft`, `#EU`
+**标签**: `#AI`, `#Machine Learning`, `#Benchmarking`, `#LLM`, `#User Modeling`
 
 ---
 
 <a id="item-16"></a>
-## [Papers with Code 汇总最佳开源 OCR 模型](https://www.reddit.com/r/MachineLearning/comments/1ueiam6/find_the_best_opensource_ocr_models_in_one_place/) ⭐️ 7.0/10
+## [欧盟初步认定 AWS 及 Azure 为《数字市场法》守门人](https://36kr.com/newsflashes/3868491377710338?f=rss) ⭐️ 7.0/10
 
-Papers with Code 新建页面汇总了性能最佳的开源 OCR 模型与基准测试，包括百度推出的 Unlimited OCR（30 亿参数，采用 R-SWA 技术）和 Mistral 的 OCR 4 API。该资源还重点推荐了 OlmOCRBench 和 OmniDocBench 等关键基准测试。 随着 OCR 模型快速迭代，该汇总解决了工具选择的难题，尤其对需要将 PDF/扫描文档高质量数字化的 AI 智能体工作流和 RAG 系统具有重要意义。 百度模型基于 DeepSeek OCR 改进，采用参考滑动窗口注意力（R-SWA）；Mistral 提供 API 访问。当前推荐模型包括可自托管的 Chandra OCR 2 和 Mistral 的无服务器 API 版本 OCR v4。
+欧盟委员会 6 月 25 日宣布，已初步认定亚马逊云服务（AWS）及微软 Azure 为《数字市场法》（DMA）下的'守门人'，尽管两者均未达到 DMA 规定的量化指定门槛。此前欧盟已于 2025 年 11 月 18 日启动针对这两家云服务的市场调查。 这一认定将使 AWS 和 Azure 面临更严格的欧盟监管，可能重塑它们在欧洲云计算市场（合计份额约 80%）的竞争格局。亚马逊和微软此前已因其他服务被列为 DMA 守门人，此次认定将进一步扩大其合规义务范围。 此次认定为初步决定，企业可在 7 月 25 日前提出异议。值得注意的是，这是云服务首次在未达到 75 亿欧元欧盟营业额门槛的情况下被认定为守门人，表明监管机构关注的是超越财务指标的市场影响力。
 
-reddit · r/MachineLearning · /u/NielsRogge · 6月24日 16:26
+rss · 36kr AI · 6月25日 11:30
 
-**背景**: OCR 技术将扫描文档转为机器可读文本，是 AI 应用的关键基础。RAG（检索增强生成）通过引入外部知识提升聊天机器人性能。DeepSeek 是以高性价比大模型闻名的中国 AI 公司，R-SWA 则是针对长文本处理的注意力机制优化技术。
+**背景**: 《数字市场法》（DMA）是欧盟针对控制客户访问入口的大型数字平台（'守门人'）的法规，守门人需遵守互操作性等严格规则。AWS 和 Azure 在欧洲云计算市场各占约 40%份额，谷歌云约占 10%。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://sebastianraschka.com/llm-architecture-gallery/swa/">Sliding Window Attention ( SWA ) | Sebastian Raschka, PhD</a></li>
-<li><a href="https://en.wikipedia.org/wiki/DeepSeek">DeepSeek</a></li>
-<li><a href="https://grokipedia.com/page/IBM_RAG_and_Agentic_AI_Professional_Certificate">IBM RAG and Agentic AI Professional Certificate</a></li>
+<li><a href="https://digital-markets-act.ec.europa.eu/gatekeepers-portal_en">DMA designated Gatekeepers - Digital Markets Act (DMA)</a></li>
+<li><a href="https://www.mordorintelligence.com/industry-reports/europe-cloud-computing-market">Europe Cloud Computing Market Size & Share Analysis - Growth ...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区讨论强调 OCR 在 AI 智能体企业数据输入中的作用，用户赞赏基准测试的实用性。部分用户建议扩展至表格识别和手写分析等其他文档 AI 任务。
-
-**标签**: `#OCR`, `#AI-agents`, `#RAG`, `#open-source`, `#computer-vision`
+**标签**: `#Regulation`, `#Cloud Computing`, `#AWS`, `#Azure`, `#EU`
 
 ---
 
 <a id="item-17"></a>
-## [MuJoFil：面向视觉强化学习训练的 GPU 原生模拟器](https://www.reddit.com/r/MachineLearning/comments/1uemrch/mujoco_derived_simulator_for_high_fidelity_vision/) ⭐️ 7.0/10
+## [Papers with Code 整理最佳开源 OCR 模型合集](https://www.reddit.com/r/MachineLearning/comments/1ueiam6/find_the_best_opensource_ocr_models_in_one_place/) ⭐️ 7.0/10
 
-新型开源模拟器 MuJoFil 结合了受 MuJoCo 启发的物理引擎（通过 NVIDIA Newton）与 Google Filament 渲染引擎，实现了 GPU 原生的高保真视觉强化学习训练。 该方案通过可并行化的 GPU 加速同时保持视觉保真度，解决了当前视觉强化学习流程的关键限制，相比 NVIDIA Isaac 等专有方案更具可及性。 支持 PBR 材质、GLB/OpenUSD 格式及在线环境导入（如 Sketchfab）。需 CUDA 支持且处于测试阶段（存在已知问题），可通过'pip install mujofil'安装。
+Papers with Code 平台新推出的精选列表汇总了性能最佳的开源 OCR 模型，包括百度采用 R-SWA 技术的 Unlimited OCR 和 Mistral 的 OCR 4 API，同时收录了 OlmOCRBench 和 OmniDocBench 等基准数据集。 该资源满足了 AI 工作流中对文档数字化标准化的迫切需求，尤其适用于需要将杂乱 PDF 转换为结构化 Markdown 的 RAG 智能体系统。 百度 30 亿参数的 Unlimited OCR 采用了创新的 R-SWA 注意力机制，而 Mistral 基于 API 的 OCR 4 具备段落级文本框提取功能。当前推荐模型包括 Chandra OCR 2 和 Mistral OCR v4。
 
-reddit · r/MachineLearning · /u/MT1699 · 6月24日 19:07
+reddit · r/MachineLearning · /u/NielsRogge · 6月24日 16:26
 
-**背景**: MuJoCo 是机器人/ML 研究中常用的物理引擎但受限于 CPU。NVIDIA Newton 提供 GPU 加速的 MuJoCo 兼容物理引擎，Google Filament 则是针对移动/桌面优化的 PBR 渲染器。视觉强化学习需要精确物理与高质量画面来训练感知系统。
+**背景**: OCR（光学字符识别）技术将扫描文档转为机器可读文本。R-SWA 等新技术优化了长文档的注意力机制，而 DeepSeek OCR 等模型展现了中国开源 AI 的发展。Papers with Code 是复兴后的机器学习模型基准测试平台。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/MuJoCo">MuJoCo - Wikipedia</a></li>
-<li><a href="https://github.com/google/filament">google / filament : Filament is a real-time physically based rendering ...</a></li>
+<li><a href="https://www.emergentmind.com/topics/reference-sliding-window-attention-r-swa">Reference Sliding Window Attention ( R - SWA )</a></li>
+<li><a href="https://en.wikipedia.org/wiki/DeepSeek">DeepSeek</a></li>
+<li><a href="https://docs.mistral.ai/models/model-cards/ocr-4-0">OCR 4 - Mistral AI | Mistral Docs</a></li>
+
+</ul>
+</details>
+
+**标签**: `#OCR`, `#AI`, `#Machine Learning`, `#Open Source`, `#Document Processing`
+
+---
+
+<a id="item-18"></a>
+## [MuJoFil：面向视觉强化学习的 GPU 原生模拟器](https://www.reddit.com/r/MachineLearning/comments/1uemrch/mujoco_derived_simulator_for_high_fidelity_vision/) ⭐️ 7.0/10
+
+新型开源模拟器 MuJoFil 将 MuJoCo 物理引擎与 Google Filament 渲染引擎结合，实现了 GPU 原生的高保真视觉强化学习训练。它解决了现有工具如 MuJoCo 的 CPU 依赖性和 MJX 缺乏视觉管道支持等局限性。 该进展通过实现基于真实视觉输入的并行化训练，可能大幅加速视觉强化学习研究，同时保持开源许可的易获取性，与 NVIDIA Isaac 等专有方案形成对比。 该模拟器整合了 NVIDIA 牛顿物理引擎（兼容 MuJoCo 但 GPU 原生）与经过修改的 Filament 渲染引擎，支持 PBR 材质和 GLB/OpenUSD 等环境格式。目前处于测试阶段存在已知漏洞，需要支持 CUDA 的 GPU。
+
+reddit · r/MachineLearning · /u/MT1699 · 6月24日 19:07
+
+**背景**: MuJoCo 是机器人研究中广泛使用的物理引擎，Filament 是谷歌的实时物理渲染引擎。NVIDIA 的牛顿引擎将 MuJoCo 物理扩展到 GPU，本项目将这些技术专门整合用于视觉强化学习应用——这类应用中视觉保真度和并行化至关重要。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://mujoco.org/">MuJoCo — Advanced Physics Simulation</a></li>
+<li><a href="https://github.com/google/filament">GitHub - google/filament: Filament is a real-time physically ...</a></li>
 <li><a href="https://developer.nvidia.com/newton-physics">Newton Physics Engine | NVIDIA Developer</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 开发者就该开源项目征集改进意见，并承认其测试版状态。评论显示技术兴趣但尚未深入讨论，可能因项目处于早期阶段。
-
 **标签**: `#reinforcement-learning`, `#simulation`, `#GPU-acceleration`, `#computer-vision`, `#physics-engine`
 
 ---
 
-<a id="item-18"></a>
-## [HDD-RoPE：高维动态旋转位置编码提升 Transformer 收敛性](https://www.reddit.com/r/MachineLearning/comments/1uelcm9/high_dimensional_dynamic_rotary_positional/) ⭐️ 7.0/10
-
-研究人员提出了 HDD-RoPE，一种高维动态旋转位置编码方法，在 TinyStories 数据集上的测试表明，其验证损失收敛速度优于使用 xPos 的 Transformer 模型。 这一进展很重要，因为位置编码对于 Transformer 理解序列顺序至关重要，改进的收敛性可以带来更快的训练速度和在自然语言处理任务中更好的模型性能。 HDD-RoPE 通过使用多维位置表示（4 维分块，6 个旋转轴）并使旋转量数据相关，扩展了传统 RoPE，允许更灵活的位置学习。该方法在具有标准超参数（n_blocks=4, d_model=d_k=d_v=768）的 GPT-2 类模型上进行了测试。
-
-reddit · r/MachineLearning · /u/mikayahlevi · 6月24日 18:16
-
-**背景**: 旋转位置编码（RoPE）通过使用旋转矩阵旋转 token 表示来编码位置信息，自然包含了相对位置依赖关系。传统 RoPE 使用二维对进行旋转，对应线性序列位置。位置编码帮助 Transformer 理解序列中 token 的顺序，这对语言建模任务至关重要。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://arxiv.org/abs/2104.09864">RoFormer: Enhanced Transformer with Rotary Position Embedding</a></li>
-<li><a href="https://nn.labml.ai/transformers/rope/index.html">Rotary Positional Embeddings ( RoPE )</a></li>
-<li><a href="https://medium.com/@mlshark/rope-a-detailed-guide-to-rotary-position-embedding-in-modern-llms-fde71785f152">RoPE : A Detailed Guide to Rotary Position Embedding in... | Medium</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 讨论显示了对该方法的技术参与，用户对数学公式和潜在应用感兴趣。一些人表达了对多维方法如何捕捉文本中更高级结构信息的好奇。
-
-**标签**: `#positional-embeddings`, `#transformers`, `#machine-learning`, `#optimization`, `#RoPE`
-
----
-
 <a id="item-19"></a>
-## [美光 26Q3 营收同比暴增 346%，创历史新高](https://www.globenewswire.com/news-release/2026/06/24/3317151/14450/en/micron-technology-inc-reports-record-results-for-the-third-quarter-of-fiscal-2026.html) ⭐️ 7.0/10
+## [美光 26Q3 营收同比暴增 346%，日均净赚 3.1 亿美元](https://www.globenewswire.com/news-release/2026/06/24/3317151/14450/en/micron-technology-inc-reports-record-results-for-the-third-quarter-of-fiscal-2026.html) ⭐️ 7.0/10
 
-美光科技公布 2026 财年第三季度财报，营收达 414.6 亿美元，同比增长 346%，主要受 AI 基础设施对高性能内存需求激增驱动。非 GAAP 毛利率飙升至 84.9%，HBM4 已大规模量产，HBM4E 预计 2027 年投产。 这显示了 AI 基础设施需求的爆炸性增长以及美光在高性能内存市场的主导地位。财报结果预示着内存短缺将持续，并凸显了 HBM 等先进内存技术在 AI 发展中的关键作用。 美光数据中心业务营收同比增长 653%至 115.2 亿美元，云内存业务增长 306%至 137.7 亿美元。公司已签署 16 份长期战略协议，锁定了未来 3-5 年的订单。
+美光科技公布 2026 财年第三季度创纪录业绩，营收达 414.6 亿美元（同比增长 346%），净利润 282.4 亿美元，主要受 AI 基础设施对高性能内存需求推动。公司已开始大规模量产 HBM4，并预计内存短缺将持续至 2027 年以后。 这显示了 AI 基础设施投资的爆炸性增长，以及 HBM 等先进内存技术对 AI 工作负载的关键支撑作用。美光的业绩也预示着内存市场供需失衡将持续，对科技行业产生长期影响。 非 GAAP 毛利率从去年同期的 39%飙升至 84.9%，数据中心业务收入增长 653%至 115.2 亿美元。美光已签署 16 份长期战略协议锁定未来 3-5 年订单，并预计下季度营收将达 500 亿美元。
 
 telegram · zaihuapd · 6月24日 22:22
 
-**背景**: 高带宽内存(HBM)是一种 3D 堆叠内存技术，对 AI 加速器和高性能计算至关重要。非 GAAP 财务指标排除了某些支出，以显示公司的核心运营表现。AI 基础设施的繁荣为先进内存解决方案创造了前所未有的需求。
+**背景**: 高带宽内存（HBM）是一种 3D 堆叠内存技术，对 AI/GPU 应用至关重要，比传统 DDR 内存提供更高带宽。非 GAAP 财务指标排除了某些支出以显示公司核心运营表现，但相比标准会计计量可能呈现更乐观的视图。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
-<li><a href="https://www.investopedia.com/terms/g/gaap.asp">investopedia.com/terms/g/ gaap .asp</a></li>
-<li><a href="https://introl.com/blog/ai-agent-infrastructure-autonomous-systems-compute-requirements-2025">AI agent infrastructure : what autonomous systems require | Introl Blog</a></li>
+<li><a href="https://www.sec.gov/rules-regulations/staff-guidance/corporation-finance-interpretations/non-gaap-financial-measures">Non-GAAP Financial Measures - SEC.gov</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Semiconductors`, `#AI Infrastructure`, `#Memory`, `#Financial Results`, `#Micron`
+**标签**: `#semiconductors`, `#AI`, `#financial`, `#memory`, `#Micron`
 
 ---
 
 <a id="item-20"></a>
-## [谷歌 Play Store 下周在美英欧启用外部计费](https://android-developers.googleblog.com/2026/06/play-expanded-billing.html) ⭐️ 7.0/10
+## [谷歌 Play Store 下周在美英欧启用外部计费选项](https://android-developers.googleblog.com/2026/06/play-expanded-billing.html) ⭐️ 7.0/10
 
-自 6 月 30 日起，谷歌 Play Store 将在美国、英国和欧洲经济区允许开发者提供第三方应用内计费或外部网页链接购买选项，但仍需支付 Google Play 服务费。新费率将服务费与结算费拆分，首 100 万美元年收入及自动续订订阅的服务费为 10%，使用 Google Play Billing 的交易需额外支付 5%结算费。 这标志着谷歌应用商店政策的重大转变，在解决反垄断问题的同时为开发者提供了更多支付灵活性。这些变化可能降低部分开发者的成本，并增强移动支付生态系统的竞争，特别是在主要市场。 使用替代计费或外部链接的开发者无需支付额外的 5% Google Play Billing 结算费。参与 Google 'Level Up'或'Apps Experience'计划的开发者从 9 月起可享受更低费率。此前该政策仅在小范围试点中实施。
+谷歌宣布自 6 月 30 日起，美国、英国和欧洲经济区的开发者可提供第三方应用内支付或外部网页购买链接，但交易仍需支付 Google Play 服务费。新费率将首 100 万美元年收入和自动续订订阅的服务费降至 10%，使用 Google Play Billing 的交易在美英欧需额外支付 5%结算费。 这是谷歌在反垄断压力下最大规模开放替代支付方案，可能降低开发者成本并带来更具竞争力的定价。这一变革将重塑主要市场中的应用盈利策略，为开发者和用户提供更多支付灵活性。 使用替代支付或外部链接可免缴 5%的 Google Play Billing 结算费。参与'Level Up'或'Apps Experience'计划的开发者 9 月起可享受更低费率。新费率还根据用户安装时间区分'新安装'和'现有安装'。
 
 telegram · zaihuapd · 6月25日 02:33
 
-**背景**: 谷歌 Play 的计费政策一直受到全球监管机构的审查，特别是在与 Epic Games 的法律纠纷之后。30%的标准佣金率一直是争议焦点，促成了这次更灵活的政策调整。新的分级收费体系是谷歌跟随苹果应对监管压力的类似举措。
+**背景**: 此前谷歌仅在小范围试点外部支付功能。此次调整源于与 Epic Games 等开发者就反竞争行为的法律和解。目前 Play Store 对应用内购买收取 15-30%佣金，该模式长期面临全球监管审查。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://9to5google.com/2026/06/24/google-play-store-external-billing-june-30/">Google Play Store opens external billing starting June 30</a></li>
-<li><a href="https://www.ndtvprofit.com/technology/google-play-opens-external-billing-introduces-tiered-fee-system-from-june-30-2026-11685323">Google Play Opens External Billing , Introduces Tiered Fee System...</a></li>
-<li><a href="https://www.androidauthority.com/google-play-billing-changes-3681025/">Google Play eases grip on app payments with new billing options</a></li>
+<li><a href="https://arstechnica.com/google/2026/06/google-starts-lowering-play-store-fees-making-good-on-epic-games-settlement/">Google starts lowering Play Store fees , making good... - Ars Technica</a></li>
+<li><a href="https://www.ghacks.net/2026/06/25/google-play-billing-choice-program-goes-live-june-30-with-lower-developer-fees-and-third-party-billing/">Google Play Billing Choice Program Goes Live... - gHacks Tech News</a></li>
+<li><a href="https://support.google.com/googleplay/android-developer/answer/16954621?hl=en">Understanding Google Play's lower service fees</a></li>
 
 </ul>
 </details>
 
-**标签**: `#mobile`, `#app-development`, `#google-play`, `#billing`, `#policy`
+**标签**: `#Google Play`, `#mobile development`, `#app monetization`, `#policy change`, `#digital payments`
 
 ---
 
 <a id="item-21"></a>
-## [亚马逊卖家申诉通道被中介利用](https://news.bloomberglaw.com/tech-and-telecom-law/amazon-seller-reveals-rare-glimpse-of-shadow-bribery-market) ⭐️ 7.0/10
+## [亚马逊卖家通过贿赂内部人员解封冻结账户](https://news.bloomberglaw.com/tech-and-telecom-law/amazon-seller-reveals-rare-glimpse-of-shadow-bribery-market) ⭐️ 7.0/10
 
-彭博社报道揭露了一个灰色市场，中介利用与亚马逊内部的联系帮助被封卖家解冻资金，其中一个案例涉及 9 万美元。卖家提供的录音和截图显示这类操作仍在进行。 这暴露了亚马逊卖家治理体系中的系统性腐败，损害了电商平台的公信力，并使遵守正规流程的诚信卖家处于不利地位。同时也揭示了平台申诉机制中可被牟利利用的漏洞。 这些中介不提供标准账户管理服务，而是专门承诺能接触可影响账户决策的亚马逊内部人员。其中 9 万美元的案例涉及因违反评论政策导致的账户停用。
+彭博社报道揭露了一个灰色市场，亚马逊卖家通过向内部人员行贿来解封被冻结的账户和资金，其中一例涉及一名卖家支付费用以恢复因账户停用而被冻结的 9 万美元。 这暴露了亚马逊卖家申诉流程中的系统性腐败，破坏了平台治理的信任，并对遵循官方程序的诚实卖家造成不利影响。 这种灰色服务涉及直接接触亚马逊员工以获取内部备注并加速账户恢复，卖家提供的证据包括录音和截图。
 
 telegram · zaihuapd · 6月25日 03:44
 
-**背景**: 亚马逊官方恢复流程要求被封卖家通过正规渠道提交申诉。账户可能因虚假评论等政策违规被暂停，资金会被冻结 90 天。而这类'内部通道'的存在绕过了透明流程。
+**背景**: 亚马逊的标准申诉流程要求卖家通过 Seller Central 提交文件，通常包括问卷调查或政策测试。账户停用通常会冻结资金 90 天，同时亚马逊调查如违反评论政策等违规行为。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://sellerpickle.com/blogs/how-to/how-to-reinstate-your-amazon-seller-account-suspension-or-deactivation-appeal">How To Reinstate Your Amazon Seller Account - Seller Pickle</a></li>
-<li><a href="https://e-cabilly.com/glossary/amazon-seller-account-reinstatement/">Amazon Seller Account Reinstatement | Glossary | Cabilly & Co</a></li>
+<li><a href="https://sellercentral.amazon.com/help/hub/reference/external/G200370560?locale=en-US">Appeal an account deactivation or listing removal</a></li>
+<li><a href="https://salesduo.com/blog/amazon-appeal-process-account-reinstatement-guide/">How to Appeal Amazon Termination & Recover Your Account</a></li>
 
 </ul>
 </details>
 
-**标签**: `#e-commerce`, `#corruption`, `#Amazon`, `#platform-governance`, `#business-ethics`
+**标签**: `#e-commerce`, `#corruption`, `#Amazon`, `#business-ethics`, `#platform-governance`
 
 ---
 
 <a id="item-22"></a>
-## [Kimi 目标与海外三大模型竞争，海外付费用户增长 4 倍](https://m.21jingji.com/article/20260625/herald/4ac45f890a5776973e6004f34810ac2c.html) ⭐️ 7.0/10
+## [Kimi AI 海外付费用户增长 4 倍，目标与全球三大模型竞争](https://m.21jingji.com/article/20260625/herald/4ac45f890a5776973e6004f34810ac2c.html) ⭐️ 7.0/10
 
-月之暗面 B 端负责人黄震昕在亚马逊云科技中国峰会上披露，Kimi 海外付费用户增长 4 倍，API 收入增长 400%，业务覆盖 200 多个国家和地区。公司坚持研发优先战略，与 AWS 深度合作，由后者负责行业方案与合规，自身专注模型能力提升。 这标志着中国的 Kimi 成为全球大模型竞赛的有力竞争者，通过 AWS 基础设施和 Trainium 芯片支持，以仅 300 人的精干团队专注底层创新，挑战海外头部模型厂商。 Kimi 模型已上架 Amazon Marketplace，未来可能基于 Trainium 芯片开展预训练合作。互联网、金融、制造、教育和医疗行业已成为其核心企业客户来源。
+月之暗面旗下 Kimi 智能助手海外付费用户增长 4 倍，API 收入增长 400%，业务覆盖 200 多个国家和地区。该公司与亚马逊云科技深化合作，未来或探索基于 Trainium 芯片的预训练合作。 这标志着中国 AI 在全球市场的竞争力提升，Kimi 正对标西方主流大模型。与 AWS 的合作既加速全球化布局，又保障研发投入（公司仅 300 余人）。 Kimi K2.5 是万亿参数 MoE 模型（活跃参数 320 亿），具备多模态能力。公司坚持研发优先战略，AWS 负责行业解决方案及全球合规事务。
 
 telegram · zaihuapd · 6月25日 10:00
 
-**背景**: Kimi 是月之暗面开发的 AI 聊天机器人，以支持 12.8 万 token 的超长上下文著称。亚马逊 Trainium 芯片是 AWS 自研的 AI 加速器，旨在对抗 NVIDIA GPU，其中 Trainium2 相比现有芯片有 30-40%的性价比提升。
+**背景**: 月之暗面开发的 Kimi 是开源多模态模型（文本/代码/图像），具备智能体功能。AWS Trainium 是亚马逊专为 AI 训练设计的芯片，与 SageMaker 深度集成，适合大模型预训练等任务。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Kimi_(chatbot)">Kimi (chatbot) - Wikipedia</a></li>
-<li><a href="https://qz.com/amazon-ai-training-chip-trainium-aws-cloud-computing-1851712037">Amazon 's next-generation AI training chip is here</a></li>
+<li><a href="https://lzwjava.github.io/aws-trainium-chips-en">AWS Trainium AI Accelerator Chips</a></li>
 
 </ul>
 </details>
 
-**标签**: `#LLM`, `#AI-competition`, `#Enterprise-AI`, `#Cloud-Computing`, `#Market-Expansion`
+**标签**: `#AI`, `#Cloud Computing`, `#Machine Learning`, `#China Tech`, `#Enterprise AI`
+
+---
+
+<a id="item-23"></a>
+## [谷歌前 CEO 批评中国 AI 开源模式](https://www.youtube.com/watch?v=I2F2xFvt4mQ&amp;t=397s) ⭐️ 7.0/10
+
+谷歌前首席执行官 Eric Schmidt 在公开讨论中批评中国 AI 的开源发展模式，承认其竞争威胁，但表示担忧这种模式让西方国家难以控制。他强调美国需要加大在算力基础设施和科研领域的投入以保持竞争力。 这凸显了美中技术竞争日益紧张的态势，尤其是在 AI 发展策略方面，开源模式对传统控制范式构成挑战。Schmidt 的评论反映了在 AI 能力日益普及的时代，西方对保持技术主导权的广泛担忧。 Schmidt 领导着专注于保持美国技术优势的智库 Special Competitive Studies Project。中国的 Qwen 和 DeepSeek 等 AI 模型正通过开源方式和成本优势获得全球关注。
+
+telegram · zaihuapd · 6月25日 11:30
+
+**背景**: Special Competitive Studies Project 是 Eric Schmidt 于 2021 年成立的无党派美国智库，旨在增强美国在 AI 和新兴技术领域的竞争力。中国 AI 发展日益采用开源模式，目前许多排名靠前的开源 AI 模型都来自中国团队。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Special_Competitive_Studies_Project">Special Competitive Studies Project</a></li>
+<li><a href="https://qwen.ai/">Qwen</a></li>
+<li><a href="https://platform.deepseek.com/">Join DeepSeek API platform to access our AI models, developer...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI`, `#Geopolitics`, `#Open Source`, `#US-China Relations`, `#Technology Policy`
 
 ---

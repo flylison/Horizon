@@ -5,299 +5,331 @@ date: 2026-06-25
 lang: en
 ---
 
-> From 69 items, 22 important content pieces were selected
+> From 67 items, 23 important content pieces were selected
 
 ---
 
-1. [OpenAI unveils custom AI chip 'Jalapeno' with Broadcom](#item-1) ⭐️ 9.0/10
+1. [OpenAI unveils first custom AI chip 'Jalapeno' with Broadcom](#item-1) ⭐️ 9.0/10
 2. [Anthropic accuses Alibaba of illicitly extracting Claude AI capabilities](#item-2) ⭐️ 8.0/10
-3. [LastPass reports another data breach, raising security concerns](#item-3) ⭐️ 8.0/10
+3. [LastPass reports another major data breach](#item-3) ⭐️ 8.0/10
 4. [Medical students misuse research tools to produce misleading studies](#item-4) ⭐️ 8.0/10
-5. [Countries compete in mass surveillance advancements](#item-5) ⭐️ 8.0/10
-6. [RoboScience unveils Visics, a general embodied AI model with VLOA architecture](#item-6) ⭐️ 8.0/10
-7. [Superhuman Generals.io AI agent achieves #1 rank with self-play RL](#item-7) ⭐️ 8.0/10
-8. [Half-Life 2 Runs in Browser via WebAssembly](#item-8) ⭐️ 7.0/10
-9. [Cloudflare launches self-managed OAuth for all](#item-9) ⭐️ 7.0/10
-10. [Zombie unicorns plague Silicon Valley's VC ecosystem](#item-10) ⭐️ 7.0/10
-11. [John Carmack reflects on early career mistakes at id Software](#item-11) ⭐️ 7.0/10
-12. [Tom MacWright critiques LLM-generated job applications](#item-12) ⭐️ 7.0/10
-13. [Apple reports surging memory demand due to AI data center expansion](#item-13) ⭐️ 7.0/10
-14. [Meituan's LongCat team open-sources VitaBench 2.0](#item-14) ⭐️ 7.0/10
-15. [EU Commission preliminarily designates AWS and Azure as DMA gatekeepers](#item-15) ⭐️ 7.0/10
-16. [Papers with Code curates top open-source OCR models](#item-16) ⭐️ 7.0/10
-17. [MuJoFil: GPU-native simulator for vision-based RL training](#item-17) ⭐️ 7.0/10
-18. [HDD-RoPE: High-Dimensional Dynamic Rotary Positional Embedding Improves Transformer Convergence](#item-18) ⭐️ 7.0/10
-19. [Micron reports record Q3 2026 revenue with 346% YoY growth](#item-19) ⭐️ 7.0/10
-20. [Google Play Store to allow external billing in US, UK, and EEA from June 30](#item-20) ⭐️ 7.0/10
-21. [Amazon seller appeal process exploited by intermediaries](#item-21) ⭐️ 7.0/10
-22. [Kimi aims to compete with top global LLMs, sees 4x overseas paid user growth](#item-22) ⭐️ 7.0/10
+5. [Global race intensifies for mass surveillance dominance](#item-5) ⭐️ 8.0/10
+6. [RoboScience Unveils Visics Universal Embodied AI Model with VLOA Architecture](#item-6) ⭐️ 8.0/10
+7. [Superhuman Generals.io AI achieves #1 rank with self-play RL and Vision Transformers](#item-7) ⭐️ 8.0/10
+8. [HDD-RoPE: High-Dimensional Dynamic Rotary Positional Embedding](#item-8) ⭐️ 8.0/10
+9. [Half-Life 2 Playable in Browser via WASM/WebGL](#item-9) ⭐️ 7.0/10
+10. [Cloudflare launches self-managed OAuth for all users](#item-10) ⭐️ 7.0/10
+11. [Dolphin Emulator Progress Report Release 2606](#item-11) ⭐️ 7.0/10
+12. [John Carmack reflects on early career mistakes at id Software](#item-12) ⭐️ 7.0/10
+13. [Tom MacWright critiques LLM-generated job applications](#item-13) ⭐️ 7.0/10
+14. [Chinese avionics startup Yunji secures multiple funding rounds to challenge Honeywell](#item-14) ⭐️ 7.0/10
+15. [Meituan's LongCat team open-sources VitaBench 2.0](#item-15) ⭐️ 7.0/10
+16. [EU preliminarily designates AWS and Azure as DMA gatekeepers](#item-16) ⭐️ 7.0/10
+17. [Papers with Code curates top open-source OCR models](#item-17) ⭐️ 7.0/10
+18. [MuJoFil: GPU-native simulator for vision-based RL training](#item-18) ⭐️ 7.0/10
+19. [Micron reports 346% YoY revenue surge in Q3 2026, earning $310M daily](#item-19) ⭐️ 7.0/10
+20. [Google Play Store to allow external billing in US, UK, and EEA starting June 30](#item-20) ⭐️ 7.0/10
+21. [Amazon sellers bribe insiders to unblock frozen accounts](#item-21) ⭐️ 7.0/10
+22. [Kimi AI reports 4x overseas paid user growth, aims to compete globally](#item-22) ⭐️ 7.0/10
+23. [Former Google CEO criticizes China's open-source AI approach](#item-23) ⭐️ 7.0/10
 
 ---
 
 <a id="item-1"></a>
-## [OpenAI unveils custom AI chip 'Jalapeno' with Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) ⭐️ 9.0/10
+## [OpenAI unveils first custom AI chip 'Jalapeno' with Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) ⭐️ 9.0/10
 
-OpenAI announced its first custom AI inference chip named 'Jalapeno', developed in partnership with Broadcom and manufactured by TSMC, completing the design-to-production cycle in just nine months. This marks OpenAI's entry into hardware optimization for AI workloads, potentially reducing reliance on third-party chips like Nvidia's and improving efficiency for its LLM services including ChatGPT and API offerings. The chip features HBM memory and a large compute chiplet for high throughput with low latency, specifically optimized for LLM inference workloads. OpenAI claims it offers substantially better performance per watt than current state-of-the-art chips.
+OpenAI has unveiled its first custom AI inference chip called 'Jalapeno', developed in collaboration with Broadcom in just nine months. The chip is designed to reduce inference costs by approximately 50% compared to current Nvidia GPUs. This marks OpenAI's entry into the AI hardware space, potentially reducing reliance on third-party chips and lowering operational costs for services like ChatGPT. It could reshape the competitive landscape against tech giants like Google who already have their own TPUs. The Jalapeno chip targets deployment by end of 2026 and is manufactured by TSMC. It's specifically optimized for large language models like GPT-5.3 Codex Spark, promising higher performance per watt.
 
 hackernews · jamdesk · Jun 24, 17:47 · [Discussion](https://news.ycombinator.com/item?id=48663324)
 
-**Background**: AI inference chips are specialized processors designed to efficiently run trained AI models. Major tech companies like Google (TPU), AWS (Inferentia), and now OpenAI are developing custom chips to optimize performance and reduce costs for their specific AI workloads.
+**Background**: AI inference chips are specialized processors designed to efficiently run trained AI models. Broadcom is a leading semiconductor company known for designing chips for data centers and networking. Custom AI chips like Google's TPUs have shown significant advantages in performance and efficiency for specific workloads.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/broadcom-and-openai-unveil-custom-built-jalapeno-inference-processor-openais-first-chip-is-a-massive-reticle-sized-asic-built-in-an-ultra-fast-nine-month-development-cycle">Broadcom and OpenAI unveil custom-built Jalapeño inference processor — OpenAI's first chip is a massive reticle-sized ASIC built in an ultra-fast nine-month development cycle | Tom's Hardware</a></li>
-<li><a href="https://www.cnbctv18.com/technology/openai-unveils-custom-chip-it-designed-with-broadcom-to-boost-its-ai-infrastructure-19931702.htm">OpenAI unveils custom chip it designed with Broadcom to boost its AI infrastructure - CNBC TV18</a></li>
 <li><a href="https://aws.amazon.com/ai/machine-learning/inferentia/">AI Chip - Amazon Inferentia - AWS</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Broadcom">Broadcom - Wikipedia</a></li>
+<li><a href="https://www.techtimes.com/articles/319012/20260624/openais-first-custom-ai-chip-targets-50-cheaper-inference-jalapeno-unveiled.htm">OpenAI's First Custom AI Chip Targets 50% Cheaper Inference ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Comments express skepticism about OpenAI's claims of AI-assisted chip design acceleration, while others highlight competing approaches like Taalas' LLM-burned-into-silicon technology. Many note TSMC's manufacturing role was omitted from OpenAI's announcement.
+**Discussion**: Community reactions are mixed, with some praising the rapid development timeline while others question marketing claims about using AI to design the chip. Comparisons were drawn to Taalas' approach of burning LLM models directly into silicon. Many noted Google's early lead in this space with their 7th-gen TPUs.
 
-**Tags**: `#AI Hardware`, `#OpenAI`, `#Semiconductors`, `#Machine Learning`, `#Chip Design`
+**Tags**: `#AI`, `#Hardware`, `#OpenAI`, `#Semiconductors`, `#Machine Learning`
 
 ---
 
 <a id="item-2"></a>
 ## [Anthropic accuses Alibaba of illicitly extracting Claude AI capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/) ⭐️ 8.0/10
 
-Anthropic has publicly accused Alibaba of illicitly extracting capabilities from its Claude AI model through techniques resembling model distillation, sparking a debate about AI ethics and intellectual property rights. This case highlights growing tensions in AI intellectual property protection between US and Chinese tech firms, and could set precedents for how AI model capabilities can be legally transferred or replicated. The accusation involves alleged use of 'targeted distillation' techniques where one model informs/trains another model, a common practice in AI development but potentially problematic when done without permission.
+Anthropic has publicly accused Alibaba of illicitly extracting capabilities from its Claude AI models through model distillation techniques, sparking debates about AI ethics and intellectual property rights. This case highlights growing tensions in AI intellectual property protection and raises questions about ethical boundaries in model distillation practices, particularly between US and Chinese tech firms. Anthropic's Claude models use constitutional AI for ethical alignment, with Claude 3 available in Haiku, Sonnet, and Opus variants. Model distillation can range from simple query-based methods to sophisticated RLAIF techniques.
 
 hackernews · htrp · Jun 24, 19:48 · [Discussion](https://news.ycombinator.com/item?id=48664814)
 
-**Background**: Claude is a series of large language models developed by Anthropic, known for being highly performant while emphasizing trustworthiness. Model capability extraction refers to techniques that transfer knowledge from one AI model to another, which can range from simple API queries to sophisticated training methods.
+**Background**: Model distillation is a technique where knowledge from a large 'teacher' model is transferred to a smaller 'student' model. Claude is Anthropic's flagship AI model family, with Opus being their most advanced version featuring strong coding and agent capabilities. Constitutional AI is Anthropic's proprietary method for aligning models with ethical principles.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Claude_(language_model)">Claude ( AI ) - Wikipedia</a></li>
-<li><a href="https://www.patlytics.ai/blog/understanding-model-capability-extraction-in-ai-powered-ip-portfolio-management-software">Understanding Model Capability Extraction in AI-Powered IP Portfolio Management Software • Patlytics</a></li>
-<li><a href="https://arxiv.org/html/2502.02180v1">The Elicitation Game: Evaluating Capability Elicitation Techniques</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Claude_(language_model)">Claude (AI) - Wikipedia</a></li>
+<li><a href="https://medium.com/stream-zero/understanding-the-essentials-of-model-distillation-in-ai-1e97403bee8a">Understanding the Essentials of Model Distillation in AI | Medium</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community reactions are mixed, with some criticizing Anthropic's hypocrisy given AI models are trained on public data, while others differentiate between different types of distillation techniques. Several commenters draw parallels to historical tech IP disputes.
+**Discussion**: Community reactions are polarized, with some criticizing Anthropic's hypocrisy given its own use of public data, while others defend the need for IP protection. Several commenters note the irony of AI companies complaining about copying after building models with scraped internet data.
 
-**Tags**: `#AI Ethics`, `#Intellectual Property`, `#Geopolitics`, `#Machine Learning`, `#Corporate Competition`
+**Tags**: `#AI Ethics`, `#Intellectual Property`, `#Geopolitics`, `#Model Distillation`, `#Corporate Hypocrisy`
 
 ---
 
 <a id="item-3"></a>
-## [LastPass reports another data breach, raising security concerns](https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/) ⭐️ 8.0/10
+## [LastPass reports another major data breach](https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/) ⭐️ 8.0/10
 
-LastPass has notified users of another data breach, continuing its troubling pattern of security incidents. The breach reportedly involved access to business contact information and CRM data, though the full extent remains unclear. This breach further erodes trust in LastPass, a widely-used password manager, and highlights ongoing security vulnerabilities in critical personal data protection tools. The repeated incidents may drive users to seek more reliable alternatives, potentially reshaping the password manager market. The breach reportedly exposed customer names, phone numbers, email addresses, and support case data. Cybercrime group Icarus claimed responsibility and threatened to publish stolen data unless paid.
+LastPass has notified users of another significant data breach, with multiple companies including Gong, Jamf, and HackerOne confirming their data was stolen. The cybercrime group Icarus has claimed responsibility and threatened to publish the stolen data unless a ransom is paid. This breach further erodes trust in LastPass, a widely used password manager, and highlights ongoing vulnerabilities in cloud-based security services. The incident affects both individual users and enterprise clients, potentially exposing sensitive credentials across multiple organizations. The breach follows previous LastPass security incidents in 2022, raising questions about their security architecture despite claims of zero-knowledge encryption. Affected companies span cybersecurity firms (HackerOne, Snyk) and enterprise software providers (Sprout Social, Tanium).
 
 hackernews · mooreds · Jun 25, 10:28 · [Discussion](https://news.ycombinator.com/item?id=48671468)
 
-**Background**: LastPass is a popular password management service that stores encrypted passwords online. It has suffered multiple security breaches since 2011, with a particularly severe incident in 2022 that compromised user vault data. Password managers are considered essential security tools, but repeated breaches undermine their core value proposition of secure credential storage.
+**Background**: LastPass is a cloud-based password manager that uses AES-256 encryption and zero-knowledge architecture, meaning the company cannot access users' master passwords. Password managers centralize credentials but become high-value targets; breaches can compromise all stored passwords if master credentials are obtained.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/LastPass">LastPass - Wikipedia</a></li>
-<li><a href="https://www.zdnet.com/article/lastpass-new-data-breach-2026-steps-to-take-now/">LastPass hit by new data breach - 4 steps you should take now</a></li>
-<li><a href="https://cybernews.com/best-password-managers/lastpass-review/">LastPass Review in 2026: Is It Secure? - Cybernews</a></li>
+<li><a href="https://www.lastpass.com/security/how-we-secure-lastpass">How We Secure LastPass – Security Architecture ... - LastPass</a></li>
+<li><a href="https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html">Password Storage - OWASP Cheat Sheet Series</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community comments show widespread skepticism about LastPass's security, with users suggesting alternatives and sharing personal security strategies. Some joke about rebranding the service, while others share practical approaches like using password resets instead of storing all credentials.
+**Discussion**: Comments show widespread distrust of LastPass, with users recommending alternatives like Enpass (self-hosted sync) and discussing partial password manager usage. Many criticize LastPass's repeated breaches, with one user sarcastically suggesting they rebrand as 'First0wned'.
 
-**Tags**: `#security`, `#password-managers`, `#data-breach`, `#privacy`, `#cybersecurity`
+**Tags**: `#security`, `#data-breach`, `#password-managers`, `#cybersecurity`, `#privacy`
 
 ---
 
 <a id="item-4"></a>
 ## [Medical students misuse research tools to produce misleading studies](https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies) ⭐️ 8.0/10
 
-Medical students are increasingly using AI-powered research tools to generate questionable studies, driven by perverse incentives in academic hiring that prioritize publication quantity over quality. This undermines scientific integrity and public trust, as residency programs increasingly rely on publication metrics rather than rigorous peer review for hiring decisions. The problem escalated after USMLE Step 1 exams switched to pass/fail grading, forcing students to seek alternative ways to stand out through superficial research output.
+Medical students are reportedly using popular academic research tools to generate and publish misleading studies, exposing systemic flaws in academic incentives and peer review processes. This undermines the credibility of medical research and highlights how current academic incentives prioritize quantity over quality, potentially affecting patient care and public trust in science. The misuse involves tools like Google Scholar, JSTOR, and PubMed Central, which are typically used for legitimate research but can be exploited to game publication metrics.
 
 hackernews · rndsignals · Jun 25, 02:30 · [Discussion](https://news.ycombinator.com/item?id=48668119)
 
-**Background**: Goodhart's Law explains how metric-driven systems become corrupted when measurements become targets. AI research tools like Jenni and Semantic Scholar enable rapid paper generation, while academic promotions disproportionately reward publication volume over reproducibility.
+**Background**: Peer review is a cornerstone of academic publishing, where experts evaluate research before publication. However, the system assumes good faith and can be vulnerable to manipulation when incentives prioritize publication counts over scientific rigor. Medical students face intense pressure to publish for career advancement, creating conditions for misuse.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Perverse_incentive">Perverse incentive - Wikipedia</a></li>
-<li><a href="https://jenni.ai/">Jenni | AI Academic Writer & Research Tool for Students & Academics</a></li>
-<li><a href="https://www.semanticscholar.org/">Semantic Scholar | AI-Powered Research Tool</a></li>
+<li><a href="https://www.aiu.edu/blog/best-online-academic-research-tools/">Top 10 Academic Research Tools Online in 2026</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6398293/">The peer review process - PMC</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters highlight systemic failures: peer review being co-opted for hiring screening, the rise of 'publication cartels', and calls to base rewards on peer review participation rather than publication counts. Some note this was predictable due to long-standing incentive misalignment.
+**Discussion**: Commenters criticize the systemic issues, noting how Goodhart's Law predicts such outcomes when metrics become targets. Others highlight the conflict between clinical practice and research expectations, while some propose tying academic rewards to peer review participation rather than publication quantity.
 
-**Tags**: `#academic-research`, `#science-ethics`, `#peer-review`, `#medical-education`, `#incentives`
+**Tags**: `#academic-research`, `#medical-ethics`, `#peer-review`, `#misinformation`, `#science-crisis`
 
 ---
 
 <a id="item-5"></a>
-## [Countries compete in mass surveillance advancements](https://mullvad.net/en/why-privacy-matters/state-mass-surveillance) ⭐️ 8.0/10
+## [Global race intensifies for mass surveillance dominance](https://mullvad.net/en/why-privacy-matters/state-mass-surveillance) ⭐️ 8.0/10
 
-Nations are increasingly engaging in competitive mass surveillance implementations, with Singapore cited as a leader due to its extensive camera networks and citizen reporting culture. Discussions highlight geopolitical motives behind these systems, including foreign influence monitoring and espionage concerns. This trend threatens global privacy norms and enables authoritarian control, as centralized internet services increasingly integrate with state surveillance apparatuses. The normalization of KYC (Know Your Customer) requirements also reflects this irreversible shift toward reduced anonymity online. Singapore's model combines 62,000 police cameras with crowdsourced civilian reporting, while Western nations focus on internet centralization through platforms requiring ID verification. Historical parallels exist with East Germany's Stasi, which pioneered odor sampling and postal espionage.
+Countries worldwide are increasingly competing to implement advanced mass surveillance systems, with Singapore often cited as a leader due to its extensive CCTV network and citizen reporting culture. Corporations are simultaneously becoming complicit through data-sharing agreements with governments, as evidenced by recent KYC (Know Your Customer) requirements on platforms like Reddit. This represents a fundamental erosion of privacy rights globally, where surveillance capabilities are being normalized through both government mandates and corporate policies. The trend enables unprecedented population control while creating infrastructure that could be repurposed for political repression or social scoring systems. Surveillance vendors like Dataminr and Babel Street have confirmed access to social media data through corporate partnerships, with contracts revealing scale and profitability. VPN services, often touted as privacy solutions, are increasingly blocked by ISPs under government pressure.
 
 hackernews · Cider9986 · Jun 25, 13:07 · [Discussion](https://news.ycombinator.com/item?id=48672764)
 
-**Background**: Mass surveillance techniques range from facial recognition cameras to internet traffic monitoring, often justified as counterterrorism measures. Modern implementations increasingly leverage AI and centralized platforms, creating friction between security objectives and civil liberties. The Stasi's methods during the Cold War set precedents for contemporary surveillance states.
+**Background**: Mass surveillance refers to the indiscriminate collection of data about entire populations rather than targeted monitoring of suspects. Modern implementations increasingly combine AI analysis (like LLMs processing bulk data) with IoT devices in smart cities. The post-9/11 era normalized surveillance under counterterrorism pretexts, but applications have expanded to political monitoring and behavioral control.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://mises.org/mises-wire/how-east-germanys-stasi-perfected-mass-surveillance">How East Germany's Stasi Perfected Mass Surveillance</a></li>
-<li><a href="https://truthout.org/articles/drones-drugs-and-death/">The war on terror’s methods of mass surveillance and remote warfare...</a></li>
-<li><a href="https://freedom-gpt-wiki.vercel.app/wiki/motives-behind-international-interventions">Motives behind international interventions | WikiFreedom</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mass_surveillance">Mass surveillance - Wikipedia</a></li>
+<li><a href="https://www.technologyreview.com/2026/04/21/1135919/ai-surveillance-privacy-llms-bulk-data/">How LLMs could supercharge mass surveillance in the US</a></li>
+<li><a href="https://www.aclu.org/news/privacy-technology/the-federal-trade-commission-must-investigate-meta-and-x-for-complicity-with-government-surveillance">The Federal Trade Commission Must Investigate Meta and X for Complicity with Government Surveillance | American Civil Liberties Union</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Comments highlight Singapore's surveillance dominance and express concerns about internet centralization becoming a proxy for state control. Some users predict mandatory KYC verification will expand to platforms like Hacker News, while others note surveillance systems primarily target geopolitical rivals rather than domestic crime.
+**Discussion**: Comments reveal polarized views: some see Singapore's model as effective governance, while others compare it to dystopian control. Concerns about KYC normalization dominate, with predictions of mandatory identity verification spreading to platforms like Hacker News. Multiple users highlight corporate-government data sharing as an underreported enabler of surveillance.
 
-**Tags**: `#privacy`, `#surveillance`, `#geopolitics`, `#internet-freedom`, `#government`
+**Tags**: `#privacy`, `#surveillance`, `#government`, `#internet-freedom`, `#security`
 
 ---
 
 <a id="item-6"></a>
-## [RoboScience unveils Visics, a general embodied AI model with VLOA architecture](https://36kr.com/p/3868276479710466?f=rss) ⭐️ 8.0/10
+## [RoboScience Unveils Visics Universal Embodied AI Model with VLOA Architecture](https://36kr.com/p/3868276479710466?f=rss) ⭐️ 8.0/10
 
-RoboScience has released Visics, a general embodied AI model featuring the novel VLOA (Vision-Language-Object-Action) architecture, which enables cross-domain robotic tasks such as furniture assembly, dexterous grasping, and dynamic pipeline operations. This breakthrough addresses key challenges in robotics, such as poor generalization, difficulty in fine operations, and error accumulation in long-range tasks, potentially accelerating the adoption of embodied AI in industrial and commercial settings. Visics employs a dual-engine architecture with an embodied world model and a general operation model, using Object Trajectory as a unified intermediate representation. It achieves cross-domain generalization by decoupling perception and execution layers.
+RoboScience has launched Visics, a universal embodied AI model featuring the novel VLOA (Vision-Language-Object-Action) architecture, which enables cross-embodiment, cross-object, and cross-task generalization in robotics. The model demonstrated capabilities in furniture assembly, dexterous grasping, and dynamic pipeline tasks. This breakthrough addresses three core bottlenecks in robotics: poor generalization, difficulty in fine operations, and error accumulation in long-range tasks. The VLOA architecture could standardize embodied intelligence, enabling robots to adapt to diverse hardware, objects, and scenarios without retraining. Visics uses Object Trajectory (3D point cloud trajectories) as a unified intermediate representation standard. Its dual-engine architecture separates the embodied world model (trained on internet videos) from the universal operation model (trained via physics simulation), achieving hardware-agnostic control.
 
 rss · 36kr AI · Jun 25, 07:42
 
-**Background**: Embodied AI refers to intelligent systems that interact with the physical world through robotic bodies. Traditional approaches often struggle with generalization across different robots, objects, and tasks. The VLOA architecture introduces a novel way to standardize representations for embodied intelligence, similar to how tokens standardize text for language models.
+**Background**: Embodied AI integrates AI into physical systems like robots to enable environment interaction. Traditional approaches train models on specific hardware trajectories, limiting generalization. VLOA represents a new paradigm where models understand object-centric interactions rather than memorizing joint movements. Recent research shows vision-language-action models are becoming foundational for next-gen robotics.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.techtimes.com/articles/318671/20260618/embodied-ai-world-models-attracted-6-billion-llm-parallel-may-not-hold.htm">Embodied AI World Models Attracted $6 Billion, But the LLM Parallel...</a></li>
-<li><a href="https://petercorke.github.io/robotics-toolbox-python/arm_trajectory.html">Trajectories — Robotics Toolbox for Python documentation</a></li>
+<li><a href="https://medium.com/@raktims2210/dual-system-ai-for-embodied-intelligence-how-vision-language-action-models-will-power-the-future-abfe923a779f">Dual-System AI for Embodied Intelligence: How Vision-Language-Action Models Will Power the Future of Generalist Humanoids | by RAKTIM SINGH | Medium</a></li>
+<li><a href="https://en.roboscience.co/">RoboScience-Defining Embodied Intelligence, scaling Universal AI</a></li>
+<li><a href="https://qubittool.com/blog/embodied-ai-2026-robot-foundation-models">Embodied AI 2026: From Robot Foundation Models to Industrial ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#embodied AI`, `#robotics`, `#computer vision`, `#machine learning`, `#VLOA`
+**Tags**: `#embodied AI`, `#robotics`, `#machine learning`, `#computer vision`, `#VLOA`
 
 ---
 
 <a id="item-7"></a>
-## [Superhuman Generals.io AI agent achieves #1 rank with self-play RL](https://www.reddit.com/r/MachineLearning/comments/1uei2yg/i_made_a_superhuman_generalsio_agent_with/) ⭐️ 8.0/10
+## [Superhuman Generals.io AI achieves #1 rank with self-play RL and Vision Transformers](https://www.reddit.com/r/MachineLearning/comments/1uei2yg/i_made_a_superhuman_generalsio_agent_with/) ⭐️ 8.0/10
 
-A researcher developed a self-play reinforcement learning agent for Generals.io that achieved superhuman performance, ranking #1 on the human 1v1 leaderboard. The solution combines JAX acceleration, Vision Transformers, and open-sourced training pipelines including a fast simulator. This demonstrates how modern RL techniques can surpass human experts in complex strategy games, while the open-source release provides valuable resources for game AI research. The JAX/ViT implementation also showcases scalable alternatives to traditional CNN-based approaches. The agent overcame previous limitations by switching from PyTorch/NumPy to JAX for 10x speedup, and replacing CNNs with Vision Transformers for better spatial reasoning. The system includes reward shaping and behavior cloning techniques documented in a detailed technical guide.
+A researcher developed a self-play reinforcement learning agent for Generals.io that reached superhuman performance and ranked #1 on the human 1v1 leaderboard, using JAX and Vision Transformers after overcoming initial limitations of CNN-based approaches. The project includes an open-source implementation, detailed technical guide, and a fast JAX simulator for imperfect-information RTS environments. This demonstrates how modern AI techniques can achieve superhuman performance in complex strategy games with imperfect information, providing a blueprint for combining self-play RL with transformer architectures. The open-source release accelerates research in game AI and offers practical insights into scaling RL systems through computational efficiency improvements. The breakthrough came from two key changes: migrating from NumPy/PyTorch to JAX for better computational scaling, and replacing CNNs with Vision Transformers to better capture long-range dependencies in the game state. The agent initially used behavior cloning and reward shaping but only achieved consistent superhuman performance after these architectural improvements.
 
 reddit · r/MachineLearning · /u/shrekofspeed · Jun 24, 16:18
 
-**Background**: Generals.io is a fast-paced multiplayer strategy game where players compete for territorial control with imperfect information. Self-play RL is a technique where AI agents improve by competing against themselves, famously used in AlphaGo. Vision Transformers (ViTs) apply transformer architectures to visual data, offering advantages over CNNs in certain tasks.
+**Background**: Generals.io is a multiplayer strategy game where players control armies on a grid-based map with four cell types (plain, mountain, general, castle). Self-play RL is a technique where AI agents improve by competing against themselves or previous versions. Vision Transformers apply transformer architectures to visual inputs, offering advantages over CNNs in capturing global relationships.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://generals.io/">generals . io</a></li>
+<li><a href="https://arxiv.org/html/2507.06825v1">Artificial Generals Intelligence: Mastering Generals.io with Reinforcement Learning</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Self-play_(reinforcement_learning_technique)">Self-play (reinforcement learning technique)</a></li>
 <li><a href="https://arxiv.org/abs/2204.04905">[2204.04905] Evaluating Vision Transformer Methods for Deep Reinforcement Learning from Pixels</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters praised the technical depth and open-source contribution, with discussions focusing on JAX optimization benefits and ViT's suitability for game state representation. Some questioned whether the approach could generalize to other RTS games with higher complexity.
+**Discussion**: The Reddit discussion shows strong technical engagement, with users praising the detailed implementation guide and asking about specific design choices like the ViT architecture's advantages over CNNs for this task. Several commenters expressed interest in applying similar techniques to other strategy games.
 
-**Tags**: `#Reinforcement Learning`, `#Game AI`, `#JAX`, `#Vision Transformers`, `#Self-play`
+**Tags**: `#reinforcement-learning`, `#jax`, `#self-play`, `#vision-transformers`, `#game-ai`
 
 ---
 
 <a id="item-8"></a>
-## [Half-Life 2 Runs in Browser via WebAssembly](https://hl2.slqnt.dev/) ⭐️ 7.0/10
+## [HDD-RoPE: High-Dimensional Dynamic Rotary Positional Embedding](https://www.reddit.com/r/MachineLearning/comments/1uelcm9/high_dimensional_dynamic_rotary_positional/) ⭐️ 8.0/10
 
-A developer has successfully ported Half-Life 2 to run in web browsers using WebAssembly, demonstrating the capability of modern web technologies to handle complex 3D games. The project, hosted at hl2.slqnt.dev, shows playable performance though with some missing graphical effects like character eye shaders. This breakthrough highlights how WebAssembly is transforming browsers into capable gaming platforms, potentially eliminating the need for local installations and expanding access to classic games. It's particularly significant for macOS users who lost 32-bit support, as browser-based solutions bypass platform compatibility issues. The port achieves 80-95% of native performance according to WebAssembly benchmarks, though some graphical features are simplified. Similar projects exist for Quake 3 and Unreal Tournament, showing a growing trend of browser-based game emulation.
+Researchers introduced HDD-RoPE, a high-dimensional dynamic rotary positional embedding that outperforms xPos in early validation convergence on the TinyStories dataset. The method uses multi-dimensional rotation groups and data-dependent rotation rates to capture complex positional relationships. This advancement could improve transformer models' ability to understand complex positional relationships in sequences, potentially leading to better performance in tasks like language modeling and text generation. The dynamic nature of HDD-RoPE allows models to learn more sophisticated positional representations than traditional methods. HDD-RoPE uses 4-dimensional chunks (vs standard RoPE's 2D) creating 6 axes of rotation, and makes rotation rates data-dependent through layer activations. While showing promising results, the method is currently slower than xPos or standard RoPE implementations.
 
-hackernews · panza · Jun 25, 06:00 · [Discussion](https://news.ycombinator.com/item?id=48669534)
+reddit · r/MachineLearning · /u/mikayahlevi · Jun 24, 18:16
 
-**Background**: WebAssembly (WASM) is a binary instruction format that enables near-native performance in web browsers. Combined with WebGL for graphics rendering, it allows complex applications like games to run efficiently without plugins. Major game engines like Unity and Unreal Engine have adopted WebAssembly for browser deployment.
+**Background**: Rotary Positional Embedding (RoPE) is a technique used in transformer models to encode positional information by rotating query and key vectors. Traditional RoPE uses 2D rotations to represent linear sequence positions, while xPos is an alternative positional encoding method that aims to improve extrapolation capabilities. The TinyStories dataset contains simple stories generated by GPT models using limited vocabulary, making it ideal for testing small language models.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://nem5.com/blog/article.php?slug=browser-games-2025">Web-Based Execution: The Complete 2025 Browser Gaming ... | NEM5</a></li>
-<li><a href="https://medium.com/illumination/why-webassembly-is-turning-browsers-into-powerhouses-0d28a9adc351">Why WebAssembly is Turning Browsers into Powerhouses | Medium</a></li>
-<li><a href="https://opensource.com/article/21/3/webassembly-firefox">6 things to know about using WebAssembly on... | Opensource.com</a></li>
+<li><a href="https://github.com/mikayahlevi/hdd-rope/">GitHub - mikayahlevi/hdd-rope</a></li>
+<li><a href="https://medium.com/@anitha6g/understanding-rotational-position-embeddings-rope-in-transformers-95d879dd7b4b">Understanding Rotational Position Embeddings (RoPE) in ... - Medium</a></li>
+<li><a href="https://arxiv.org/abs/2305.07759">[2305.07759] TinyStories: How Small Can Language Models Be ... GitHub - xingvu/TinyStories: Creating a mini GPT-2 model from ... GitHub - sri9s/tinystories-language-models: Exploring the ... raymond-van/gpt-tinystories | DeepWiki TinyStories_baseline.ipynb - Colab</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters noted similar browser ports for Quake 3 and Unreal Tournament, while others highlighted technical limitations like missing shaders. macOS users praised the solution for bypassing 32-bit compatibility issues. Some discussed the broader implications for content accessibility and censorship resistance.
+**Discussion**: The technical discussion focused on the mathematical formulation of HDD-RoPE and its computational trade-offs. Some users expressed interest in seeing comparisons with other positional encoding methods on larger datasets, while others praised the novel approach to capturing multi-dimensional positional relationships.
 
-**Tags**: `#webassembly`, `#gaming`, `#emulation`, `#browser-tech`, `#hacking`
+**Tags**: `#machine-learning`, `#transformers`, `#positional-embeddings`, `#nlp`, `#deep-learning`
 
 ---
 
 <a id="item-9"></a>
-## [Cloudflare launches self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/) ⭐️ 7.0/10
+## [Half-Life 2 Playable in Browser via WASM/WebGL](https://hl2.slqnt.dev/) ⭐️ 7.0/10
 
-Cloudflare has introduced self-managed OAuth, allowing developers to create and manage their own OAuth clients directly through Cloudflare's platform. This feature simplifies authentication workflows while supporting high-scale use cases. This development is significant as it provides a more secure and manageable alternative to API tokens, particularly valuable for SaaS integrations and large-scale deployments. It addresses common pain points in OAuth implementation while maintaining Cloudflare's performance standards. The solution supports standard OAuth flows where customers can grant scoped access directly. Cloudflare reports the 2.x version performs exceptionally well at scale with minimal CPU usage.
+A solo developer named slqnt has created a web-based port of Half-Life 2 using WASM and WebGL, allowing the game to run directly in modern browsers without installation. The project was completed in just three months and launched on June 25, 2026 at hl2.slqnt.dev. This demonstrates the growing potential of browser-based gaming, making AAA titles accessible without downloads while preserving core gameplay. It's particularly significant for macOS users who lost 32-bit Steam support, as the browser bypasses this limitation. The port currently lacks some visual effects like character eye shaders, and requires users to upload their own game files as ZIP archives. Performance depends on browser WebGL implementation and hardware capabilities.
 
-hackernews · terryds · Jun 25, 02:18 · [Discussion](https://news.ycombinator.com/item?id=48668033)
+hackernews · panza · Jun 25, 06:00 · [Discussion](https://news.ycombinator.com/item?id=48669534)
 
-**Background**: OAuth is an open standard for access delegation commonly used for token-based authentication. Self-managed OAuth gives organizations more control over their authentication processes compared to relying on third-party providers. Cloudflare's implementation aims to combine this control with their infrastructure's scalability.
+**Background**: WebAssembly (WASM) allows near-native performance in browsers by compiling code to binary format. WebGL provides hardware-accelerated 3D graphics via JavaScript APIs. Together they enable complex applications like games to run in browsers. Half-Life 2 is Valve's 2004 flagship FPS that revolutionized physics-based gameplay.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://blog.cloudflare.com/oauth-for-all/?ref=upstract.com">blog.cloudflare.com/ oauth -for-all/?ref=upstract.com</a></li>
-<li><a href="https://cloudflare-docs.cloudflare-docs.workers.dev/changelog/post/2026-06-03-public-oauth-clients/">Introducing self - managed OAuth clients · Changelog</a></li>
+<li><a href="https://www.dexerto.com/gaming/half-life-2-is-now-a-free-web-browser-game-thanks-to-a-high-schooler-3379501/">Half-Life 2 is now a free web browser game thanks to a high ...</a></li>
+<li><a href="https://retrogems.fr/en/half-life-2-playable-browser-free-no-install/">You Can Now Play Half-Life 2 In Your Browser For Free, No ...</a></li>
+<li><a href="https://www.getorchestra.io/guides/webgl-wasm-revolutionizing-browser-based-graphics-and-data-engineering">WebGL & WASM : Revolutionizing Browser -Based Graphics and Data...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community reactions are mixed, with some praising the technical implementation (noted by the Ory Hydra author) while others express skepticism about Cloudflare's long-term commitment to product improvements. Some users highlight existing solutions for large-scale OAuth management, suggesting the problem was already solvable with proper implementation.
+**Discussion**: Comments highlight technical comparisons with Quake 3/UT web ports, concerns about automatic file downloads without consent, and appreciation for macOS compatibility. Some note graphical inaccuracies while others debate WASM's underutilization in game distribution.
 
-**Tags**: `#oauth`, `#authentication`, `#cloudflare`, `#security`, `#devops`
+**Tags**: `#WebAssembly`, `#WebGL`, `#gaming`, `#emulation`, `#browser-tech`
 
 ---
 
 <a id="item-10"></a>
-## [Zombie unicorns plague Silicon Valley's VC ecosystem](https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley) ⭐️ 7.0/10
+## [Cloudflare launches self-managed OAuth for all users](https://blog.cloudflare.com/oauth-for-all/) ⭐️ 7.0/10
 
-A Stanford University database reveals 332 of 1,900 unicorns had raised money at or below peak valuations by May 2026, with platforms like Cameo exemplifying flawed VC valuation models. This exposes systemic risks in startup financing, where overreliance on growth projections rather than current profitability distorts valuations, potentially triggering cascading failures across the tech sector. SoftBank Vision Fund's $1bn Cameo valuation contrasts sharply with its stable-but-unspectacular financials, highlighting how terminal growth rate assumptions (typically 2%-4%) dramatically sway DCF models.
+Cloudflare has introduced self-managed OAuth for all developers, enabling them to handle authentication without relying on third-party services. This feature provides a more secure and manageable alternative to traditional API tokens. This development is significant as it simplifies authentication management for developers, reducing dependency on external providers and enhancing security. It aligns with broader industry trends towards self-managed identity and access management (IAM) solutions. The self-managed OAuth feature allows third-party applications to act on behalf of users to access their Cloudflare accounts. It was implemented via a zero-downtime migration of Cloudflare's core OAuth engine.
 
-hackernews · andsoitis · Jun 25, 02:16 · [Discussion](https://news.ycombinator.com/item?id=48668020)
+hackernews · terryds · Jun 25, 02:18 · [Discussion](https://news.ycombinator.com/item?id=48668033)
 
-**Background**: The term 'unicorn' was coined in 2013 by VC Aileen Lee for startups valued over $1bn. 'Zombie unicorns' refer to those maintaining high valuations despite stagnant growth, sustained by low-interest capital. VC valuations often use Comparable Company Analysis or 5-year DCF models with speculative revenue projections.
+**Background**: OAuth is an open standard for access delegation, commonly used to grant websites or applications limited access to user information without exposing passwords. IAM (Identity and Access Management) systems like OAuth are critical for securing cloud resources by authenticating users and authorizing their access to specific resources.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.businesstimes.com.sg/opinion-features/zombie-unicorns-are-haunting-silicon-valley">Zombie unicorns are haunting Silicon Valley - The Business Times</a></li>
-<li><a href="https://www.news18.com/business/economy/inside-zombie-unicorns-why-silicon-valleys-billion-dollar-start-ups-refuse-to-die-is-india-facing-the-same-problem-shil-ws-el-10171975.html">Inside Zombie Unicorns : Why Silicon Valley’s Billion-Dollar... - News18</a></li>
-<li><a href="https://financialmodelslab.com/blogs/blog/exploring-different-valuation-techniques-venture-capital-deals">Exploring Valuation Techniques for Venture Capital Deals</a></li>
+<li><a href="https://blog.cloudflare.com/oauth-for-all/?ref=upstract.com">blog.cloudflare.com/ oauth -for-all/?ref=upstract.com</a></li>
+<li><a href="https://developers.cloudflare.com/changelog/post/2026-06-03-public-oauth-clients/">Introducing self - managed OAuth clients · Changelog</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters critique VC valuations as 'gambling payouts', noting Cameo's realistic valuation contrasts with SoftBank's hype. Others argue profitable companies can survive devaluation, though investors may see diminished returns.
+**Discussion**: Community reactions are mixed, with some praising the move as simplifying a traditionally complex process, while others express skepticism about Cloudflare's track record in maintaining and improving new features. Notable comments include the author of Ory Hydra applauding the technical execution, while another user highlights the challenges of managing OAuth at scale.
 
-**Tags**: `#venture-capital`, `#startups`, `#valuation`, `#silicon-valley`, `#economics`
+**Tags**: `#OAuth`, `#Cloudflare`, `#authentication`, `#security`, `#IAM`
 
 ---
 
 <a id="item-11"></a>
+## [Dolphin Emulator Progress Report Release 2606](https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/) ⭐️ 7.0/10
+
+Dolphin Emulator's latest progress report (Release 2606) details ongoing improvements to the popular GameCube/Wii emulator, though specific technical enhancements are not detailed in the provided content. This update matters because Dolphin is a cornerstone of retro gaming emulation, enabling modern hardware to run classic Nintendo games with enhancements, preserving gaming history and expanding accessibility. While the report lacks specific technical details, Dolphin is known for its high compatibility, graphical improvements over original hardware, and features like HD resolution support and networked multiplayer.
+
+hackernews · exploraz · Jun 25, 10:20 · [Discussion](https://news.ycombinator.com/item?id=48671392)
+
+**Background**: Dolphin is a free, open-source emulator for Nintendo's GameCube, Wii, and Triforce arcade systems, first released in 2003. It pioneered commercial GameCube game emulation and later added Wii support, becoming notable for enabling HD gameplay and cross-platform compatibility (Windows/Linux/macOS/Android).
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Dolphin_(emulator)">Dolphin (emulator) - Wikipedia</a></li>
+<li><a href="https://dolphin-emu.org/">Dolphin Emulator - GameCube/Wii games on PC</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Comments praise Dolphin's polish and nostalgia value, with users highlighting its smooth performance on devices like Steam Deck and humorous references to its name. Some note Nintendo's limited classic game releases compared to Dolphin's capabilities.
+
+**Tags**: `#emulation`, `#gaming`, `#open-source`, `#retro-gaming`, `#software-development`
+
+---
+
+<a id="item-12"></a>
 ## [John Carmack reflects on early career mistakes at id Software](https://twitter.com/ID_AA_Carmack/status/2069799283369345247) ⭐️ 7.0/10
 
-John Carmack, co-founder of id Software, publicly reflected on his early career mistakes, including pushing teams too hard and making certain technical decisions during the development of Quake. His retrospective sparked discussions about game development culture and leadership. This matters because Carmack is a legendary figure in game development whose insights influence modern tech leadership and game engineering practices. His reflections offer valuable lessons about balancing innovation with sustainable team management. Carmack specifically mentioned regrets about team management intensity and technical debt from Quake's development. The discussion references conflicts with Sandy Petersen, a level designer who left id Software during Quake's development.
+John Carmack, co-founder of id Software, publicly reflected on his early career mistakes, including overworking teams and technical decisions during the development of Quake, which he believes 'gutted' the company. This reflection matters because it comes from a legendary figure in game development whose technical innovations shaped the FPS genre, offering valuable lessons about sustainable development practices and company culture in the tech industry. Carmack specifically mentioned pushing teams too hard at startup intensity and questioned whether Quake's technical ambitions were worth the toll on id Software, while acknowledging the game's iconic status in gaming history.
 
 hackernews · shadowtree · Jun 24, 15:56 · [Discussion](https://news.ycombinator.com/item?id=48661825)
 
-**Background**: John Carmack co-founded id Software and pioneered revolutionary game engines for Doom and Quake. Quake (1996) introduced true 3D environments and became foundational for modern FPS games. Carmack later worked at Oculus VR before focusing on AGI development.
+**Background**: id Software was founded in 1991 by John Carmack, John Romero, Tom Hall and Adrian Carmack, creating groundbreaking games like Wolfenstein 3D, Doom and Quake. Carmack was the lead programmer behind id's revolutionary game engines that defined 3D gaming. The company was acquired by ZeniMax Media in 2009.
 
-**Discussion**: The community discussion shows mixed reactions - some defend Quake's technical achievements as worth the cost, while others emphasize the human toll. Multiple commenters reference Sandy Petersen's perspective from interviews, suggesting the full story is complex.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Id_Software">id Software - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/John_Carmack">John Carmack - Wikipedia</a></li>
+<li><a href="https://www.howtogeek.com/711060/from-keen-to-doom-id-softwares-founders-talk-30-years-of-gaming-history/">From Keen to Doom: id Software's Founders Talk 30 Years of ... Celebrate 35 years of id Software - slayersclub.bethesda.net List of id Software games - Wikipedia A Brief History of Doom Developer Id Software - Game Rant 30 Years Since id Software’s Birth That Powered MS-DOS Gaming ... The Definitive History of Doom: How id Software Forged a ...</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The community discussion reveals mixed reactions, with some agreeing that Quake's development hurt id Software's culture, while others argue the game's impact justified the costs. Several commenters referenced Sandy Petersen's perspective on the difficult development process, and many appreciated Carmack's honest reflection on leadership mistakes.
 
 **Tags**: `#game-development`, `#software-engineering`, `#leadership`, `#retrospective`, `#id-software`
 
 ---
 
-<a id="item-12"></a>
+<a id="item-13"></a>
 ## [Tom MacWright critiques LLM-generated job applications](https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything) ⭐️ 7.0/10
 
-Tom MacWright observes a growing trend of job applicants using LLMs to generate resumes, portfolio websites, GitHub projects, and even commit messages, resulting in impersonal and anonymized candidate profiles. This trend makes it harder for employers to assess candidates' true qualities and personal brand, potentially undermining the hiring process and favoring superficial technical skills over genuine capabilities. MacWright specifically notes that these LLM-generated materials often link to each other (e.g., resume → portfolio → GitHub), creating a fully automated but impersonal application chain. Tools like Wegic AI and 10Web enable easy creation of such AI-generated portfolio sites.
+Tom MacWright reports seeing job applications, portfolios, and GitHub projects entirely generated by LLMs, resulting in impersonal and anonymized candidate profiles. He notes these materials reveal nothing authentic about applicants beyond their tool usage. This trend threatens to homogenize hiring processes, making it harder for candidates to showcase individuality and for employers to assess genuine skills. It reflects broader concerns about AI's role in eroding human authenticity in professional contexts. Examples include LLM-generated commit messages (via tools like llm-commit) and interactive portfolio sites (like portfolio-llm). Research shows LLMs like GPT-3.5 and LLaMA can generate conventional commit messages across 8 programming languages.
 
 rss · Simon Willison · Jun 24, 18:13
 
-**Background**: LLMs (Large Language Models) like GPT-4 can generate human-like text, including resumes and portfolio content. Platforms such as GitHub now host projects entirely authored by AI, while tools like 10Web's AI builder automate website creation. This raises questions about authenticity in professional self-presentation.
+**Background**: LLMs are increasingly used to automate professional documentation, with tools emerging for commit messages (analyzing git diffs) and portfolio generation. While boosting efficiency, this risks creating generic outputs that lack personal voice. The llms.txt standard enables queryable LLM-powered portfolios.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://wegic.ai/ai-website-builder">Free AI Website Builder: Create Website in Minutes | Wegic</a></li>
-<li><a href="https://10web.io/ai-website-builder/">AI Website Builder: Create and Launch in Seconds | 10Web</a></li>
+<li><a href="https://github.com/GNtousakis/llm-commit">A plugin for llm that generates commit messages - GitHub</a></li>
+<li><a href="https://vishalbakshi.github.io/blog/posts/2025-06-26-portfolio-llm/">Introducing portfolio-llm: A Professional Portfolio You Can ...</a></li>
+<li><a href="https://arxiv.org/abs/2507.10906">[2507.10906] Evaluating Generated Commit Messages with Large ... GitHub - Pengyu03/LLM-Commit-Message-Generation: This ... Using Large Language Models for Commit Message Generation: A ... How to Generate Git Commit Messages with a Local LLM Auto-generate Commit Messages with LLMs in Your Terminal Use an llm to automagically generate meaningful git commit ...</a></li>
 
 </ul>
 </details>
@@ -306,226 +338,218 @@ rss · Simon Willison · Jun 24, 18:13
 
 ---
 
-<a id="item-13"></a>
-## [Apple reports surging memory demand due to AI data center expansion](https://36kr.com/newsflashes/3868586020066566?f=rss) ⭐️ 7.0/10
-
-Apple has reported unprecedented price increases in memory components due to rapid AI data center expansion, creating significant challenges for the electronics industry. This highlights the growing strain on memory supply chains as AI applications demand more resources, potentially affecting pricing and availability across the tech industry. The memory market is experiencing extreme volatility, with prices surging due to AI-driven demand while other sectors see slower growth.
-
-rss · 36kr AI · Jun 25, 12:49
-
-**Background**: AI data centers require massive amounts of memory (DRAM, HBM) for processing large datasets and training models. The AI boom has created a memory supercycle, with some memory stocks seeing 800-4,600% gains in the past year. Memory is currently the tightest bottleneck in AI infrastructure development.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://frugalfortunes.com/best-ai-memory-stocks/">Best AI Memory Stocks for 2026: DRAM, HBM and NAND Plays</a></li>
-<li><a href="https://www.fool.com/investing/2026/06/19/missed-out-ai-memory-rally-3-stocks-rmbs/">Missed Out on the AI Memory Rally? These 3 Stocks... | The Motley Fool</a></li>
-<li><a href="https://kr-asia.com/rampant-ai-demand-throws-the-memory-chip-market-into-turmoil">Rampant AI demand throws the memory chip market into turmoil</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#data-centers`, `#memory`, `#supply-chain`, `#Apple`
-
----
-
 <a id="item-14"></a>
-## [Meituan's LongCat team open-sources VitaBench 2.0](https://36kr.com/newsflashes/3868549148349700?f=rss) ⭐️ 7.0/10
+## [Chinese avionics startup Yunji secures multiple funding rounds to challenge Honeywell](https://36kr.com/p/3868030861645058?f=rss) ⭐️ 7.0/10
 
-Meituan's LongCat team has released VitaBench 2.0, a benchmark for evaluating LLMs in long-term, dynamic user interactions, following the initial release of VitaBench 1.0 in October last year. This benchmark is significant as it provides a standardized way to evaluate how well LLMs can maintain personalized and proactive interactions over time in real-life scenarios, which is crucial for advancing AI applications in customer service and other interactive domains. VitaBench 2.0 inherits some limitations from version 1.0, including intentionally controlled tool and instruction complexity, and may not fully capture the messiness of real implicit user preferences which can be contextual and contradictory across sessions.
+Chinese startup Yunji Avionics has completed pre-A and pre-A+ funding rounds totaling tens of millions RMB within 8 months, following its angel round, to develop domestically-produced avionics systems including the YJ-500E, YJ-1000E, and YJ-3000E series. This challenges the 80% market dominance by Western giants like Honeywell and Collins Aerospace, while supporting China's aviation supply chain security and enabling cost-effective commercialization of domestic aircraft and eVTOLs. The YJ-500E system has completed onboard verification in multiple aircraft models and expects certification in H2 2024, featuring 90% domestic components, 50-70% cost savings versus international products, and 70% lower power consumption.
 
-rss · 36kr AI · Jun 25, 12:11
+rss · 36kr AI · Jun 25, 03:25
 
-**Background**: The LongCat team at Meituan is known for developing open multimodal models like LongCat-Flash-Omni, a 560-billion parameter model excelling at real-time audio-visual interaction. Benchmarking tools like VitaBench help evaluate how well these models perform in practical, long-term interaction scenarios.
+**Background**: Avionics systems are the electronic 'brains' of aircraft, integrating navigation, flight control, and communication subsystems. The global market is dominated by Honeywell, Collins, Thales and GE. eVTOLs (electric vertical take-off/landing aircraft) represent a growing segment requiring specialized avionics solutions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/html/2605.27141">VitaBench 2 . 0 : Evaluating Personalized and Proactive Agents in...</a></li>
-<li><a href="https://www.linkedin.com/pulse/memory-makes-leaders-worse-vitabench-20-sarvex-jatasra-nhe3c">Memory makes the leaders worse on VitaBench 2 . 0</a></li>
-<li><a href="https://www.longcatai.org/">LongCat AI - LongCat -Next and Open Multimodal Models | Meituan</a></li>
+<li><a href="https://eu.36kr.com/en/p/3868030861645058">A Dark Horse in Domestic Avionics Secures Three Rounds of...</a></li>
+<li><a href="https://builtin.com/articles/evtol-aircraft">What Are eVTOLs? Are They the Future of Aviation? | Built In Images The key technologies that power eVTOLs: How Do They Work? A Complete Guide to eVTOL | Dewesoft Top Stories Autonomous ElectricVTOL Transport Aircraft | MIT Technology ... 7 eVTOLs That Will Be Hitting the Skies by 2025 - Robb Report The e in eVTOL: What It Will Take to Build the Next ...</a></li>
+<li><a href="https://www.linkedin.com/pulse/aircraft-avionic-systems-real-world-5-uses-youll-actually-wuahe">Aircraft Avionic Systems in the Real World: 5 Uses You'll Actually See...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Benchmarking`, `#LLMs`, `#User Modeling`, `#Machine Learning`
+**Tags**: `#avionics`, `#aerospace`, `#startup`, `#China`, `#funding`
 
 ---
 
 <a id="item-15"></a>
-## [EU Commission preliminarily designates AWS and Azure as DMA gatekeepers](https://36kr.com/newsflashes/3868491377710338?f=rss) ⭐️ 7.0/10
+## [Meituan's LongCat team open-sources VitaBench 2.0](https://36kr.com/newsflashes/3868549148349700?f=rss) ⭐️ 7.0/10
 
-The EU Commission announced on June 25 that it has preliminarily designated Amazon Web Services (AWS) and Microsoft Azure as 'gatekeepers' under the Digital Markets Act (DMA), despite neither meeting the quantitative thresholds for designation. Both companies have been formally notified and could face expanded compliance obligations if the designation is finalized. This designation subjects AWS and Azure to stricter EU regulatory oversight, potentially limiting their business practices and requiring structural changes to ensure fair competition in the cloud computing market. As the two largest cloud providers in the EU, this could significantly impact cloud service pricing, interoperability requirements, and market dynamics. The designation is notable because AWS and Azure were included despite not meeting the DMA's quantitative thresholds (€7.5B annual EU turnover or 45M monthly users), suggesting the EU is applying qualitative assessments of their market importance. The final decision could come after a market investigation launched on November 18, 2025.
+Meituan's LongCat team has released VitaBench 2.0, an upgraded benchmark for evaluating large language models in long-term, dynamic, real-life user interactions, following the initial VitaBench 1.0 release in October last year. This benchmark addresses a critical gap in evaluating how AI agents infer and leverage user preferences over extended interactions, which is essential for developing personalized and proactive AI systems in real-world applications like e-commerce and customer service. VitaBench 2.0 covers 56 users, 819 subtasks, 66 tools, and over 2,000 fine-grained preferences, making it one of the most comprehensive benchmarks for long-term user modeling.
 
-rss · 36kr AI · Jun 25, 11:30
+rss · 36kr AI · Jun 25, 12:11
 
-**Background**: The Digital Markets Act (DMA) is an EU regulation that aims to make the digital economy fairer by imposing special obligations on 'gatekeeper' platforms that control access to large user bases. Gatekeepers must comply with rules about interoperability, data sharing, and fair business practices. AWS and Azure dominate the EU cloud market with approximately 33% and 22% market share respectively.
+**Background**: Long-term dynamic user modeling refers to AI systems that can adapt to evolving user preferences over extended periods. Traditional benchmarks focus mainly on reasoning and tool use, while VitaBench specifically evaluates persistence and personalization in real-life scenarios. The LongCat team at Meituan specializes in open multimodal models for complex AI tasks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Digital_Markets_Act">Digital Markets Act - Wikipedia</a></li>
-<li><a href="https://digital-markets-act.ec.europa.eu/gatekeepers-portal_en">DMA designated Gatekeepers</a></li>
-<li><a href="https://www.bloomberg.com/news/articles/2026-06-25/microsoft-amazon-cloud-units-face-tough-eu-rules-for-big-tech">Microsoft, Amazon Cloud Units Face Tough EU Rules for... - Bloomberg</a></li>
+<li><a href="https://arxiv.org/abs/2605.27141">[2605.27141] VitaBench 2.0: Evaluating Personalized and ...</a></li>
+<li><a href="https://vitabench2.github.io/">VitaBench 2.0: Evaluating Personalized and Proactive Agents ...</a></li>
+<li><a href="https://github.com/meituan-longcat/VitaBench-2.0">GitHub - meituan-longcat/VitaBench-2.0</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#cloud-computing`, `#regulation`, `#AWS`, `#Microsoft`, `#EU`
+**Tags**: `#AI`, `#Machine Learning`, `#Benchmarking`, `#LLM`, `#User Modeling`
 
 ---
 
 <a id="item-16"></a>
-## [Papers with Code curates top open-source OCR models](https://www.reddit.com/r/MachineLearning/comments/1ueiam6/find_the_best_opensource_ocr_models_in_one_place/) ⭐️ 7.0/10
+## [EU preliminarily designates AWS and Azure as DMA gatekeepers](https://36kr.com/newsflashes/3868491377710338?f=rss) ⭐️ 7.0/10
 
-A new curated page on Papers with Code lists top-performing open-source OCR models and benchmarks, including Baidu's Unlimited OCR (3B parameters with R-SWA) and Mistral's OCR 4 API. The resource also highlights key benchmarks like OlmOCRBench and OmniDocBench. This aggregation addresses the growing challenge of selecting optimal OCR tools amid rapid model releases, particularly for AI agent workflows and RAG systems that require high-quality text digitization from PDFs/scanned documents. Baidu's model introduces Reference Sliding Window Attention (R-SWA) building on DeepSeek OCR, while Mistral offers API access. Top recommendations include Chandra OCR 2 (open weights) and Mistral OCR v4 (serverless API).
+The European Commission announced on June 25 that it has preliminarily designated Amazon Web Services (AWS) and Microsoft Azure as 'gatekeepers' under the Digital Markets Act (DMA), despite neither meeting the quantitative thresholds for designation. This follows a market investigation launched in November 2025 into their cloud services. This designation subjects AWS and Azure to stricter EU regulations, potentially reshaping cloud competition in Europe where they collectively hold ~80% market share. It expands compliance obligations for Amazon and Microsoft, both already designated as gatekeepers for other services. The designation is preliminary — companies have until July 25 to contest it. Notably, this marks the first time cloud services face DMA gatekeeper rules despite not meeting the €7.5bn EU turnover threshold, showing regulators' focus on market influence beyond financial metrics.
 
-reddit · r/MachineLearning · /u/NielsRogge · Jun 24, 16:26
+rss · 36kr AI · Jun 25, 11:30
 
-**Background**: OCR converts scanned documents into machine-readable text, crucial for AI applications. RAG (Retrieval-Augmented Generation) enhances chatbots by incorporating external knowledge. DeepSeek is a Chinese AI company known for cost-efficient LLMs, while R-SWA optimizes attention mechanisms for long-context processing.
+**Background**: The Digital Markets Act (DMA) is an EU regulation targeting large digital platforms ('gatekeepers') that control access to customers. Gatekeepers must follow strict rules like allowing interoperability and avoiding self-preferencing. AWS and Azure dominate Europe's cloud market with ~40% share each, followed by Google Cloud at ~10%.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://sebastianraschka.com/llm-architecture-gallery/swa/">Sliding Window Attention ( SWA ) | Sebastian Raschka, PhD</a></li>
-<li><a href="https://en.wikipedia.org/wiki/DeepSeek">DeepSeek</a></li>
-<li><a href="https://grokipedia.com/page/IBM_RAG_and_Agentic_AI_Professional_Certificate">IBM RAG and Agentic AI Professional Certificate</a></li>
+<li><a href="https://digital-markets-act.ec.europa.eu/gatekeepers-portal_en">DMA designated Gatekeepers - Digital Markets Act (DMA)</a></li>
+<li><a href="https://www.mordorintelligence.com/industry-reports/europe-cloud-computing-market">Europe Cloud Computing Market Size & Share Analysis - Growth ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Discussions highlight OCR's role in enterprise data ingestion for AI agents, with users praising the practical benchmarking. Some request expansion to other document AI tasks like table recognition and handwriting analysis.
-
-**Tags**: `#OCR`, `#AI-agents`, `#RAG`, `#open-source`, `#computer-vision`
+**Tags**: `#Regulation`, `#Cloud Computing`, `#AWS`, `#Azure`, `#EU`
 
 ---
 
 <a id="item-17"></a>
-## [MuJoFil: GPU-native simulator for vision-based RL training](https://www.reddit.com/r/MachineLearning/comments/1uemrch/mujoco_derived_simulator_for_high_fidelity_vision/) ⭐️ 7.0/10
+## [Papers with Code curates top open-source OCR models](https://www.reddit.com/r/MachineLearning/comments/1ueiam6/find_the_best_opensource_ocr_models_in_one_place/) ⭐️ 7.0/10
 
-A new open-source simulator called MuJoFil combines MuJoCo-inspired physics (via NVIDIA's Newton engine) with Google's Filament rendering engine, enabling high-fidelity vision-based reinforcement learning training natively on GPU. This addresses key limitations in current vision RL pipelines by providing parallelizable GPU acceleration while maintaining visual fidelity, making high-quality simulation more accessible than proprietary solutions like NVIDIA Isaac. Supports PBR textures, GLB/OpenUSD formats, and online environment imports (e.g., Sketchfab). Requires CUDA and is currently in beta with known bugs. Installation via 'pip install mujofil'.
+A new curated list on Papers with Code aggregates top-performing open-source OCR models like Baidu's Unlimited OCR (featuring R-SWA innovation) and Mistral's OCR 4 API, alongside benchmark datasets like OlmOCRBench and OmniDocBench. This resource addresses the growing need for standardized document digitization in AI workflows, particularly for agentic RAG systems that require clean Markdown inputs from unstructured PDFs. Baidu's 3B-parameter Unlimited OCR introduces Reference Sliding Window Attention (R-SWA), while Mistral's API-based OCR 4 offers paragraph-level bounding box extraction. Top recommendations include Chandra OCR 2 and Mistral OCR v4.
 
-reddit · r/MachineLearning · /u/MT1699 · Jun 24, 19:07
+reddit · r/MachineLearning · /u/NielsRogge · Jun 24, 16:26
 
-**Background**: MuJoCo is a popular physics engine for robotics/ML research but is CPU-bound. NVIDIA's Newton provides GPU-accelerated MuJoCo-compatible physics, while Google Filament is a PBR renderer optimized for mobile/desktop. Vision RL requires both accurate physics and high-quality visuals for training perception systems.
+**Background**: OCR (Optical Character Recognition) converts scanned documents into machine-readable text. Recent advances like R-SWA optimize attention mechanisms for long documents, while models like DeepSeek OCR demonstrate China's rising open-source AI capabilities. Papers with Code is a revived platform for ML model benchmarking.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/MuJoCo">MuJoCo - Wikipedia</a></li>
-<li><a href="https://github.com/google/filament">google / filament : Filament is a real-time physically based rendering ...</a></li>
+<li><a href="https://www.emergentmind.com/topics/reference-sliding-window-attention-r-swa">Reference Sliding Window Attention ( R - SWA )</a></li>
+<li><a href="https://en.wikipedia.org/wiki/DeepSeek">DeepSeek</a></li>
+<li><a href="https://docs.mistral.ai/models/model-cards/ocr-4-0">OCR 4 - Mistral AI | Mistral Docs</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#OCR`, `#AI`, `#Machine Learning`, `#Open Source`, `#Document Processing`
+
+---
+
+<a id="item-18"></a>
+## [MuJoFil: GPU-native simulator for vision-based RL training](https://www.reddit.com/r/MachineLearning/comments/1uemrch/mujoco_derived_simulator_for_high_fidelity_vision/) ⭐️ 7.0/10
+
+A new open-source simulator called MuJoFil combines MuJoCo's physics with Google's Filament render engine, enabling high-fidelity vision-based reinforcement learning (RL) training natively on GPU. It addresses limitations in existing tools like MuJoCo's CPU dependency and MJX's lack of vision pipeline support. This development could significantly accelerate vision-based RL research by enabling parallelized training with realistic visual inputs, while remaining accessible through open-source licensing unlike proprietary alternatives like NVIDIA Isaac. The simulator integrates NVIDIA's Newton Physics Engine (MuJoCo-compatible but GPU-native) with a modified Filament render engine, supporting PBR textures and environment formats like GLB/OpenUSD. Currently in beta with acknowledged bugs, it requires CUDA-capable GPUs.
+
+reddit · r/MachineLearning · /u/MT1699 · Jun 24, 19:07
+
+**Background**: MuJoCo is a widely-used physics engine for robotics research, while Filament is Google's real-time physically-based rendering engine. NVIDIA's Newton extends MuJoCo's physics to GPU, and this project combines these technologies specifically for vision-RL applications where visual fidelity and parallelization are crucial.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://mujoco.org/">MuJoCo — Advanced Physics Simulation</a></li>
+<li><a href="https://github.com/google/filament">GitHub - google/filament: Filament is a real-time physically ...</a></li>
 <li><a href="https://developer.nvidia.com/newton-physics">Newton Physics Engine | NVIDIA Developer</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The developer solicited feedback for this ambitious open-source project, acknowledging its beta status. Comments expressed technical interest but no deep debate yet, likely due to the project's early stage.
-
 **Tags**: `#reinforcement-learning`, `#simulation`, `#GPU-acceleration`, `#computer-vision`, `#physics-engine`
 
 ---
 
-<a id="item-18"></a>
-## [HDD-RoPE: High-Dimensional Dynamic Rotary Positional Embedding Improves Transformer Convergence](https://www.reddit.com/r/MachineLearning/comments/1uelcm9/high_dimensional_dynamic_rotary_positional/) ⭐️ 7.0/10
-
-Researchers introduced HDD-RoPE, a high-dimensional dynamic rotary positional embedding method that demonstrates faster validation loss convergence compared to xPos in transformer models when tested on the TinyStories dataset. This advancement matters because positional embeddings are crucial for transformers to understand sequence order, and improved convergence can lead to faster training times and better model performance in natural language processing tasks. HDD-RoPE extends traditional RoPE by using multi-dimensional position representations (4-dimensional chunks with 6 axes of rotation) and making rotation amounts data-dependent, allowing more flexible position learning. The method was tested on a GPT-2-like model with standard hyperparameters (n_blocks=4, d_model=d_k=d_v=768).
-
-reddit · r/MachineLearning · /u/mikayahlevi · Jun 24, 18:16
-
-**Background**: Rotary Positional Embeddings (RoPE) encode position information by rotating token representations using a rotation matrix, which naturally incorporates relative position dependencies. Traditional RoPE uses pairs of two dimensions for rotation, corresponding to linear sequence positions. Positional embeddings help transformers understand the order of tokens in sequences, which is crucial for language modeling tasks.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arxiv.org/abs/2104.09864">RoFormer: Enhanced Transformer with Rotary Position Embedding</a></li>
-<li><a href="https://nn.labml.ai/transformers/rope/index.html">Rotary Positional Embeddings ( RoPE )</a></li>
-<li><a href="https://medium.com/@mlshark/rope-a-detailed-guide-to-rotary-position-embedding-in-modern-llms-fde71785f152">RoPE : A Detailed Guide to Rotary Position Embedding in... | Medium</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The discussion shows technical engagement with the method, with users interested in the mathematical formulation and potential applications. Some expressed curiosity about how the multi-dimensional approach might capture higher-level structural information in text.
-
-**Tags**: `#positional-embeddings`, `#transformers`, `#machine-learning`, `#optimization`, `#RoPE`
-
----
-
 <a id="item-19"></a>
-## [Micron reports record Q3 2026 revenue with 346% YoY growth](https://www.globenewswire.com/news-release/2026/06/24/3317151/14450/en/micron-technology-inc-reports-record-results-for-the-third-quarter-of-fiscal-2026.html) ⭐️ 7.0/10
+## [Micron reports 346% YoY revenue surge in Q3 2026, earning $310M daily](https://www.globenewswire.com/news-release/2026/06/24/3317151/14450/en/micron-technology-inc-reports-record-results-for-the-third-quarter-of-fiscal-2026.html) ⭐️ 7.0/10
 
-Micron Technology reported record Q3 2026 revenue of $41.46 billion, a 346% year-over-year increase, driven by AI infrastructure demand for high-performance memory. The company's non-GAAP gross margin surged to 84.9%, with HBM4 already in mass production and HBM4E expected by 2027. This demonstrates the explosive growth in AI infrastructure demand and Micron's dominant position in high-performance memory markets. The results signal continued memory shortages and highlight the critical role of advanced memory technologies like HBM in AI development. Micron's data center revenue grew 653% YoY to $11.52 billion, while cloud memory revenue increased 306% to $13.77 billion. The company has signed 16 long-term strategic agreements securing orders for the next 3-5 years.
+Micron Technology reported record-breaking Q3 2026 results with $41.46 billion revenue (346% YoY growth) and $28.24 billion net profit, driven by AI infrastructure demand for high-performance memory. The company has begun mass production of HBM4 and expects memory shortages to persist beyond 2027. This demonstrates the explosive growth of AI infrastructure investments and the critical role of advanced memory technologies like HBM in supporting AI workloads. Micron's performance also signals continued supply-demand imbalance in the memory market with long-term implications for tech industries. Non-GAAP gross margin surged to 84.9% from 39% YoY, with datacenter revenue growing 653% to $11.52 billion. Micron has signed 16 long-term strategic agreements securing orders for 3-5 years and forecasts next-quarter revenue to reach $50 billion.
 
 telegram · zaihuapd · Jun 24, 22:22
 
-**Background**: High Bandwidth Memory (HBM) is a 3D-stacked memory technology critical for AI accelerators and high-performance computing. Non-GAAP financial metrics exclude certain expenses to show a company's core operating performance. The AI infrastructure boom has created unprecedented demand for advanced memory solutions.
+**Background**: High Bandwidth Memory (HBM) is a 3D-stacked memory technology crucial for AI/GPU applications, offering significantly higher bandwidth than traditional DDR memory. Non-GAAP financial metrics exclude certain expenses to show a company's core operational performance, though they may present an optimistic view compared to standard accounting measures.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/High_Bandwidth_Memory">High Bandwidth Memory - Wikipedia</a></li>
-<li><a href="https://www.investopedia.com/terms/g/gaap.asp">investopedia.com/terms/g/ gaap .asp</a></li>
-<li><a href="https://introl.com/blog/ai-agent-infrastructure-autonomous-systems-compute-requirements-2025">AI agent infrastructure : what autonomous systems require | Introl Blog</a></li>
+<li><a href="https://www.sec.gov/rules-regulations/staff-guidance/corporation-finance-interpretations/non-gaap-financial-measures">Non-GAAP Financial Measures - SEC.gov</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Semiconductors`, `#AI Infrastructure`, `#Memory`, `#Financial Results`, `#Micron`
+**Tags**: `#semiconductors`, `#AI`, `#financial`, `#memory`, `#Micron`
 
 ---
 
 <a id="item-20"></a>
-## [Google Play Store to allow external billing in US, UK, and EEA from June 30](https://android-developers.googleblog.com/2026/06/play-expanded-billing.html) ⭐️ 7.0/10
+## [Google Play Store to allow external billing in US, UK, and EEA starting June 30](https://android-developers.googleblog.com/2026/06/play-expanded-billing.html) ⭐️ 7.0/10
 
-Starting June 30, Google Play Store will allow developers in the US, UK, and European Economic Area to offer third-party in-app billing or external web links for purchases, while still requiring payment of Google Play service fees. The new fee structure splits service fees from Google Play Billing settlement fees, with a 10% rate for the first $1M in annual revenue and auto-renewing subscriptions, plus an additional 5% billing fee for transactions using Google Play Billing. This marks a significant shift in Google's app store policies, giving developers more payment flexibility while addressing antitrust concerns. The changes could reduce costs for some developers and increase competition in the mobile payment ecosystem, particularly in major markets. Developers using alternative billing or external links won't pay the additional 5% Google Play Billing fee. Those in Google's 'Level Up' or 'Apps Experience' programs will qualify for even lower rates starting in September. The policy previously only existed in limited pilot programs.
+Google announced that starting June 30, developers in the US, UK, and European Economic Area can offer third-party in-app billing or external web links for purchases, though transactions may still incur Google Play service fees. The new policy also introduces a split fee structure with 10% service fee for first $1M annual revenue and automatic subscriptions, plus a 5% billing fee for Google Play Billing transactions in these regions. This marks Google's largest expansion of alternative billing options following antitrust pressures, potentially allowing developers to reduce costs and offer competitive pricing. The changes could reshape app monetization strategies and create more payment flexibility for both developers and users in major markets. Developers using alternative billing or external links avoid the 5% Google Play Billing fee. Participants in Google's 'Level Up' or 'Apps Experience' programs will qualify for even lower rates starting September. The service fee structure now distinguishes between 'new installs' and 'existing installs' based on user acquisition timing.
 
 telegram · zaihuapd · Jun 25, 02:33
 
-**Background**: Google Play's billing policies have faced scrutiny from regulators worldwide, particularly after legal battles with Epic Games. The 30% standard commission rate has been a point of contention, leading to this more flexible approach. The new tiered system follows similar moves by Apple in response to regulatory pressure.
+**Background**: Google previously only tested external billing in limited pilots. The changes follow legal settlements with Epic Games and other developers over anti-competitive practices. The Play Store currently takes 15-30% commission on in-app purchases, a structure that has faced global regulatory scrutiny.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://9to5google.com/2026/06/24/google-play-store-external-billing-june-30/">Google Play Store opens external billing starting June 30</a></li>
-<li><a href="https://www.ndtvprofit.com/technology/google-play-opens-external-billing-introduces-tiered-fee-system-from-june-30-2026-11685323">Google Play Opens External Billing , Introduces Tiered Fee System...</a></li>
-<li><a href="https://www.androidauthority.com/google-play-billing-changes-3681025/">Google Play eases grip on app payments with new billing options</a></li>
+<li><a href="https://arstechnica.com/google/2026/06/google-starts-lowering-play-store-fees-making-good-on-epic-games-settlement/">Google starts lowering Play Store fees , making good... - Ars Technica</a></li>
+<li><a href="https://www.ghacks.net/2026/06/25/google-play-billing-choice-program-goes-live-june-30-with-lower-developer-fees-and-third-party-billing/">Google Play Billing Choice Program Goes Live... - gHacks Tech News</a></li>
+<li><a href="https://support.google.com/googleplay/android-developer/answer/16954621?hl=en">Understanding Google Play's lower service fees</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#mobile`, `#app-development`, `#google-play`, `#billing`, `#policy`
+**Tags**: `#Google Play`, `#mobile development`, `#app monetization`, `#policy change`, `#digital payments`
 
 ---
 
 <a id="item-21"></a>
-## [Amazon seller appeal process exploited by intermediaries](https://news.bloomberglaw.com/tech-and-telecom-law/amazon-seller-reveals-rare-glimpse-of-shadow-bribery-market) ⭐️ 7.0/10
+## [Amazon sellers bribe insiders to unblock frozen accounts](https://news.bloomberglaw.com/tech-and-telecom-law/amazon-seller-reveals-rare-glimpse-of-shadow-bribery-market) ⭐️ 7.0/10
 
-A Bloomberg report reveals a shadow market where intermediaries with internal Amazon connections help banned sellers recover frozen funds, with one case involving $90,000. Evidence includes recordings and screenshots showing these operations are ongoing. This exposes systemic corruption in Amazon's seller governance, undermining trust in e-commerce platforms and disadvantaging honest sellers who follow official procedures. It highlights vulnerabilities in platform appeal systems that can be exploited for profit. The intermediaries don't offer standard account management services but specifically promise access to Amazon employees who can influence account decisions. The $90,000 case involved a suspension over review policy violations.
+A Bloomberg report reveals a shadow market where Amazon sellers pay insiders to unblock frozen accounts and funds, with one case involving a seller who paid to recover $90,000 after an account suspension. This exposes systemic corruption in Amazon's seller appeal process, undermining trust in platform governance and disadvantaging honest sellers who follow official procedures. The shadow service involves direct contact with Amazon employees to access internal notes and expedite account reinstatements, with evidence including audio recordings and screenshots provided by sellers.
 
 telegram · zaihuapd · Jun 25, 03:44
 
-**Background**: Amazon's official reinstatement process requires sellers to submit appeals through formal channels when accounts are suspended. Suspensions can occur for policy violations like fake reviews, with funds held for 90 days. The existence of unofficial 'internal channels' bypasses this transparent process.
+**Background**: Amazon's standard appeal process requires sellers to submit documentation through Seller Central, often involving questionnaires or policy quizzes. Account suspensions typically freeze funds for 90 days while Amazon investigates violations like review policy breaches.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://sellerpickle.com/blogs/how-to/how-to-reinstate-your-amazon-seller-account-suspension-or-deactivation-appeal">How To Reinstate Your Amazon Seller Account - Seller Pickle</a></li>
-<li><a href="https://e-cabilly.com/glossary/amazon-seller-account-reinstatement/">Amazon Seller Account Reinstatement | Glossary | Cabilly & Co</a></li>
+<li><a href="https://sellercentral.amazon.com/help/hub/reference/external/G200370560?locale=en-US">Appeal an account deactivation or listing removal</a></li>
+<li><a href="https://salesduo.com/blog/amazon-appeal-process-account-reinstatement-guide/">How to Appeal Amazon Termination & Recover Your Account</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#e-commerce`, `#corruption`, `#Amazon`, `#platform-governance`, `#business-ethics`
+**Tags**: `#e-commerce`, `#corruption`, `#Amazon`, `#business-ethics`, `#platform-governance`
 
 ---
 
 <a id="item-22"></a>
-## [Kimi aims to compete with top global LLMs, sees 4x overseas paid user growth](https://m.21jingji.com/article/20260625/herald/4ac45f890a5776973e6004f34810ac2c.html) ⭐️ 7.0/10
+## [Kimi AI reports 4x overseas paid user growth, aims to compete globally](https://m.21jingji.com/article/20260625/herald/4ac45f890a5776973e6004f34810ac2c.html) ⭐️ 7.0/10
 
-Moonshot AI's B2B lead Huang Zhenxin revealed at AWS China Summit that Kimi's overseas paid users grew 4x with 400% API revenue surge, now serving 200+ regions. The company prioritizes R&D over delivery, with AWS handling solutions and compliance while Kimi focuses on model capabilities. This signals China's Kimi as a serious contender in the global LLM race against established players, leveraging AWS's infrastructure and Trainium chips while maintaining lean operations (300 employees) focused on core model innovation. Kimi models are now available on Amazon Marketplace, with potential future collaboration on Trainium chip-based pretraining. Key enterprise clients come from internet, finance, manufacturing, education and healthcare sectors.
+Moonshot AI's Kimi chatbot has seen a 4x increase in overseas paid users and 400% API revenue growth, now serving over 200 countries/regions. The company is deepening its partnership with AWS for global distribution and exploring Trainium chip-based pretraining collaborations. This demonstrates China's growing competitiveness in global AI markets, with Kimi positioning itself against major Western models. The AWS partnership accelerates global distribution while allowing focused R&D investment (only 300 employees). Kimi K2.5 is a 1T parameter MoE model with 32B active parameters, featuring multimodal capabilities. The company prioritizes R&D over delivery, with AWS handling industry solutions and compliance globally.
 
 telegram · zaihuapd · Jun 25, 10:00
 
-**Background**: Kimi is an AI chatbot developed by Moonshot AI, known for its 128K token context window. Amazon's Trainium chips are AWS's custom AI accelerators designed to compete with Nvidia GPUs, with Trainium2 offering 30-40% better price-performance than current chips.
+**Background**: Moonshot AI's Kimi is an open-source multimodal model (text/code/vision) with agentic capabilities. AWS Trainium chips are specialized AI accelerators integrated with Amazon SageMaker, optimized for deep learning workloads like model pretraining.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Kimi_(chatbot)">Kimi (chatbot) - Wikipedia</a></li>
-<li><a href="https://qz.com/amazon-ai-training-chip-trainium-aws-cloud-computing-1851712037">Amazon 's next-generation AI training chip is here</a></li>
+<li><a href="https://lzwjava.github.io/aws-trainium-chips-en">AWS Trainium AI Accelerator Chips</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#LLM`, `#AI-competition`, `#Enterprise-AI`, `#Cloud-Computing`, `#Market-Expansion`
+**Tags**: `#AI`, `#Cloud Computing`, `#Machine Learning`, `#China Tech`, `#Enterprise AI`
+
+---
+
+<a id="item-23"></a>
+## [Former Google CEO criticizes China's open-source AI approach](https://www.youtube.com/watch?v=I2F2xFvt4mQ&amp;t=397s) ⭐️ 7.0/10
+
+Former Google CEO Eric Schmidt publicly criticized China's open-source AI development model, acknowledging its competitive threat but expressing concern over the lack of control it affords Western nations. He emphasized the need for increased US investment in computing infrastructure and research to maintain competitiveness. This highlights growing tensions in US-China technological competition, particularly around AI development strategies where open-source approaches challenge traditional control paradigms. Schmidt's comments reflect broader concerns about maintaining Western technological dominance in an era of increasingly accessible AI capabilities. Schmidt leads the Special Competitive Studies Project, a US think tank focused on maintaining American technological advantage. Chinese AI models like Qwen and DeepSeek are gaining global traction through their open-source approach and cost advantages.
+
+telegram · zaihuapd · Jun 25, 11:30
+
+**Background**: The Special Competitive Studies Project is a non-partisan US think tank founded by Eric Schmidt in 2021 to strengthen American competitiveness in AI and emerging technologies. Chinese AI development has increasingly embraced open-source models, with many top-ranked open-source AI models now coming from Chinese teams.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Special_Competitive_Studies_Project">Special Competitive Studies Project</a></li>
+<li><a href="https://qwen.ai/">Qwen</a></li>
+<li><a href="https://platform.deepseek.com/">Join DeepSeek API platform to access our AI models, developer...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#Geopolitics`, `#Open Source`, `#US-China Relations`, `#Technology Policy`
 
 ---

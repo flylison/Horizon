@@ -9,27 +9,15 @@
     "max_tokens": 8192,
     "throttle_sec": 1,
     "languages": ["zh", "en"],
-    "analysis_concurrency": 5,
-    "enrichment_concurrency": 5
+    "analysis_concurrency": 3,
+    "enrichment_concurrency": 3
   },
   "sources": {
     "github": [
       {
         "type": "user_events",
         "username": "karpathy",
-        "enabled": true
-      },
-      {
-        "type": "repo_releases",
-        "owner": "vllm-project",
-        "repo": "vlmm",
-        "enabled": true
-      },
-      {
-        "type": "repo_releases",
-        "owner": "sgl-project",
-        "repo": "sglang",
-        "enabled": true
+        "enabled": false
       },
       {
         "type": "repo_releases",
@@ -40,113 +28,98 @@
     ],
     "hackernews": {
       "enabled": true,
-      "fetch_top_stories": 50,
-      "min_score": 100,
-      "keywords": ["AI", "LLM", "machine learning", "HR", "organization", "management"]
+      "fetch_top_stories": 30,
+      "min_score": 80,
+      "keywords": [
+        "AI HR",
+        "AI management",
+        "AI organization",
+        "AI recruiting",
+        "AI workplace",
+        "LLT productivity",
+        "AI leadership",
+        "AI team",
+        "AI culture",
+        "remote work AI",
+        "HR tech",
+        "future of work"
+      ]
     },
     "rss": [
       {
-        "name": "Simon Willison",
-        "url": "https://simonwillison.net/atom/everything/",
+        "name": "36kr AI+商业",
+        "url": "https://#6kr.com/feed",
         "enabled": true,
-        "category": "ai-tools"
+        "category": "tech-business"
       },
       {
-        "name": "GitHub Trending - Daily",
-        "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
+        "name": "量子位",
+        "url": "https://www.qbitai.com/feed",
         "enabled": true,
-        "category": "github-trending"
+        "category": "ai-news"
       },
       {
-        "name": "36kr AI",
-        "url": "https://36kr.com/feed",
+        "name": "机器之心",
+        "url": "https://www.jiqizhixin.com/rss",
         "enabled": true,
-        "category": "tech-news"
-      },
-      {
-        "name": "AI Weekly",
-        "url": "https://aiweekly.co/latest.atom",
-        "enabled": true,
-        "category": "ai-newsletter"
+        "category": "ai-research"
       }
     ],
     "reddit": {
       "enabled": true,
       "subreddits": [
         {
-          "subreddit": "MachineLearning",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 10,
-          "min_score": 50
-        },
-        {
-          "subreddit": "LocalLLaMA",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "day",
-          "fetch_limit": 10,
-          "min_score": 50
-        },
-        {
           "subreddit": "humanresources",
           "enabled": true,
           "sort": "hot",
           "time_filter": "week",
-          "fetch_limit": 10,
-          "min_score": 20
-        },
-        {
-          "subreddit": "OrganizationDevelopment",
-          "enabled": true,
-          "sort": "hot",
-          "time_filter": "week",
-          "fetch_limit": 10,
-          "min_score": 10
+          "fetch_limit": 5,
+          "min_score": 30
         },
         {
           "subreddit": "recruiting",
           "enabled": true,
           "sort": "hot",
           "time_filter": "week",
-          "fetch_limit": 10,
-          "min_score": 20
+          "fetch_limit": 5,
+          "min_score": 30
         },
         {
-          "subreddit": "work",
+          "subredddit": "remotework",
           "enabled": true,
           "sort": "hot",
           "time_filter": "week",
-          "fetch_limit": 10,
+          "fetch_limit": 5,
           "min_score": 20
         },
         {
-          "subreddit": "management",
+          "subredddit": "productivity",
           "enabled": true,
           "sort": "hot",
           "time_filter": "week",
-          "fetch_limit": 10,
-          "min_score": 20
+          "fetch_limit": 5,
+          "min_score": 30
+        },
+        {
+          "subreddit": "artificial",
+          "enabled": true,
+          "sort": "hot",
+          "time_filter": "day",
+          "fetch_limit": 5,
+          "min_score": 50
         }
       ],
       "users": [],
-      "fetch_comments": 10
+      "fetch_comments": 5
     },
     "telegram": {
-      "enabled": true,
-      "channels": [
-        {
-          "channel": "zaihuapd",
-          "enabled": true,
-          "fetch_limit": 20
-        }
-      ]
+      "enabled": false,
+      "channels": []
     }
   },
   "filtering": {
-    "ai_score_threshold": 7.0,
-    "time_window_hours": 24
+    "ai_score_threshold": 7.5,
+    "time_window_hours": 72
   },
   "webhook": {
     "enabled": false
